@@ -1,0 +1,1523 @@
+﻿Log file open, 01/31/19 03:09:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ParallelNoteV2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.246842
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.475s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Game/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.027s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.31-02.09.40:005][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-02.09.40:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.31-02.09.40:078][  0]LogHAL: Display: Platform has ~ 8 GB [8519970816 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.31-02.09.40:098][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.31-02.09.40:102][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.31-02.09.40:137][  0]LogInit: Computer: MAXGAME
+[2019.01.31-02.09.40:137][  0]LogInit: User: MAXGAME
+[2019.01.31-02.09.40:137][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.31-02.09.40:137][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2019.01.31-02.09.40:137][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.31-02.09.40:137][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.31-02.09.40:137][  0]LogMemory: Process Physical Memory: 100.61 MB used, 100.61 MB peak
+[2019.01.31-02.09.40:137][  0]LogMemory: Process Virtual Memory: 84.29 MB used, 84.29 MB peak
+[2019.01.31-02.09.40:137][  0]LogMemory: Physical Memory: 4796.94 MB used,  3328.34 MB free, 8125.28 MB total
+[2019.01.31-02.09.40:137][  0]LogMemory: Virtual Memory: 4625.35 MB used,  3328.34 MB free, 134217728.00 MB total
+[2019.01.31-02.09.40:730][  0]LogInit: Using OS detected language (da-DK).
+[2019.01.31-02.09.40:730][  0]LogInit: Using OS detected locale (da-DK).
+[2019.01.31-02.09.40:818][  0]LogTextLocalizationManager: No localization for 'da-DK' exists, so 'en' will be used for the language.
+[2019.01.31-02.09.41:542][  0]LogStreaming: Display: Took  0.811s to InitEngineTextLocalization.
+[2019.01.31-02.09.41:556][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.31-02.09.42:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.31-02.09.42:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.31-02.09.44:743][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-02.09.44:743][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.31-02.09.44:804][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.01.31-02.09.44:804][  0]LogD3D11RHI:       2007/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.31-02.09.44:806][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.31-02.09.44:806][  0]LogD3D11RHI:       0/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.31-02.09.44:806][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.31-02.09.44:852][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.31-02.09.44:852][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.31-02.09.44:870][  0]LogWindows: EnumDisplayDevices:
+[2019.01.31-02.09.44:870][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.01.31-02.09.44:870][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.01.31-02.09.44:871][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.01.31-02.09.44:871][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.01.31-02.09.44:871][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.31-02.09.44:871][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.01.31-02.09.44:880][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2019.01.31-02.09.44:880][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2019.01.31-02.09.44:880][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.01.31-02.09.44:922][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.31-02.09.45:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.31-02.09.45:272][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Intermediate/Shaders/WorkingDirectory/23064/).
+[2019.01.31-02.09.45:272][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MAX-GAME/AppData/Local/Temp/UnrealShaderWorkingDir/AEC34C2D471A5003BE4B1B9428F56C71/'.
+[2019.01.31-02.09.45:979][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.31-02.09.46:018][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.31-02.09.46:046][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.31-02.09.46:076][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.31-02.09.46:132][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.31-02.09.46:172][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.31-02.09.46:208][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.31-02.09.46:241][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.31-02.09.46:257][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-02.09.46:394][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.31-02.09.46:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-02.09.46:530][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-02.09.46:578][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-02.09.46:579][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-02.09.46:613][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.31-02.09.46:652][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.31-02.09.46:711][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.31-02.09.46:769][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.31-02.09.46:804][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.31-02.09.46:804][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.31-02.09.47:623][  0]LogXGEController: Cleaning working directory: C:/Users/MAX-GAME/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.31-02.09.47:623][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.31-02.09.47:624][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.31-02.09.47:624][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.31-02.09.51:327][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: Loaded boot cache 0.76s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.31-02.09.52:090][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.31-02.09.52:185][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.31-02.09.52:198][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MAX-GAME/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.31-02.09.52:198][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.31-02.09.52:198][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.31-02.09.52:253][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.31-02.09.52:318][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.31-02.09.52:407][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.31-02.09.53:031][  0]LogAssetRegistry: FAssetRegistry took 0.0371 seconds to start up
+[2019.01.31-02.09.59:120][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-02.10.00:611][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.31-02.10.00:770][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.31-02.10.00:771][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.31-02.10.00:771][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.31-02.10.00:771][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.31-02.10.01:121][  0]LogNetVersion: ParallelNoteV2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3415175619)
+[2019.01.31-02.10.05:606][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.174029 seconds
+[2019.01.31-02.10.05:653][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.31-02.10.05:653][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.31-02.10.05:653][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.31-02.10.23:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.31-02.10.23:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.31-02.10.27:045][  0]SourceControl: Source control is disabled
+[2019.01.31-02.10.27:052][  0]SourceControl: Source control is disabled
+[2019.01.31-02.10.27:190][  0]SourceControl: Source control is disabled
+[2019.01.31-02.10.27:220][  0]SourceControl: Source control is disabled
+[2019.01.31-02.10.29:969][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.31-02.10.30:399][  0]LogOcInput: OculusInput pre-init called
+[2019.01.31-02.10.32:017][  0]LogEngine: Initializing Engine...
+[2019.01.31-02.10.32:087][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-02.10.32:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.025 s
+[2019.01.31-02.10.32:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-02.10.32:197][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-02.10.32:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.016 s
+[2019.01.31-02.10.33:716][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.31-02.10.35:032][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.31-02.10.35:502][  0]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.10.35:550][  0]LogInit: FAudioDevice initialized.
+[2019.01.31-02.10.35:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.31-02.10.35:685][  0]LogDerivedDataCache: Saved boot cache 0.12s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.31-02.10.35:688][  0]LogInit: Texture streaming: Enabled
+[2019.01.31-02.10.36:089][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.31-02.10.36:502][  0]LogInit: Transaction tracking system initialized
+[2019.01.31-02.10.37:029][  0]BlueprintLog: New page: Editor Load
+[2019.01.31-02.10.38:567][  0]LocalizationService: Localization service is disabled
+[2019.01.31-02.10.42:822][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/' took 0.09s
+[2019.01.31-02.10.42:822][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.31-02.10.42:837][  0]LogCook: Display: Mobile HDR setting 0
+[2019.01.31-02.10.42:859][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.31-02.10.42:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.31-02.10.42:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-02.10.42:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-02.10.42:871][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.31-02.10.46:107][  0]SourceControl: Source control is disabled
+[2019.01.31-02.10.46:159][  0]Cmd: MAP LOAD FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.31-02.10.46:178][  0]LightingResults: New page: Lighting Build
+[2019.01.31-02.10.46:562][  0]MapCheck: New page: Map Check
+[2019.01.31-02.10.46:562][  0]LightingResults: New page: Lighting Build
+[2019.01.31-02.10.55:175][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.10.57:089][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.31-02.10.57:300][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.31-02.10.57:406][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106,583ms to complete.
+[2019.01.31-02.10.57:409][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 11.280
+[2019.01.31-02.11.00:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.11.00:276][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.11.00:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.11.00:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.11.00:423][  0]LogCollectionManager: Loaded 0 collections in 0.016880 seconds
+[2019.01.31-02.11.00:573][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Collections/' took 0.01s
+[2019.01.31-02.11.00:573][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Developers/MAXGAME/Collections/' took 0.01s
+[2019.01.31-02.11.00:573][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Collections/' took 0.01s
+[2019.01.31-02.11.00:573][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.31-02.11.00:585][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2019.01.31-02.11.00:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.31-02.11.01:866][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.31-02.11.01:901][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.31-02.11.02:892][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.01.31-02.11.03:115][  0]LogSlate: Took 0.016157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.31-02.11.03:177][  0]LogSlate: Took 0.025876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.31-02.11.03:244][  0]LogSlate: Took 0.018586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.31-02.11.03:847][  0]LogRenderer: Reallocating scene render targets to support 1180x472 Format 10 NumSamples 1 (Frame:1).
+[2019.01.31-02.11.04:055][  0]LogStaticMesh: Allocated 510x171x64 distance field atlas = 10.6Mb, with 45 objects containing 4.9Mb backing data
+[2019.01.31-02.11.04:646][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.31-02.11.04:646][  0]LogLoad: (Engine Initialization) Total time: 99.83 seconds
+[2019.01.31-02.11.04:646][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.31-02.11.05:267][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.31-02.11.05:880][  1]LogSlate: Took 0.050843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.31-02.11.06:079][  3]LogAssetRegistry: Asset discovery search completed in 73.0792 seconds
+[2019.01.31-02.11.06:091][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.31-02.11.06:091][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.01.31-02.11.57:652][905]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.11.59:949][ 22]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.12.00:275][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.12.35:599][741]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.31-02.12.35:724][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.12.35:949][741]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.12.36:004][741]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.12.37:606][741]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.12.37:893][741]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.12.38:380][741]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.12.38:380][741]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.12.38:380][741]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.12.38:679][741]LogStaticMesh: Building static mesh ChibiBaseMesh...
+[2019.01.31-02.12.38:968][741]LogStaticMesh: Built static mesh [0.29s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.12.39:662][741]LogMeshUtilities: Finished distance field build in 0.7s - 8x8x8 distance field, 3828 triangles, Range [-0.1, 0.5], ChibiBaseMesh
+[2019.01.31-02.12.39:662][741]LogStaticMesh: Display: Main thread blocked for 0.351s for async distance field build of ChibiBaseMesh to complete!  This can happen if the mesh is rebuilt excessively.
+[2019.01.31-02.12.39:756][741]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj)
+[2019.01.31-02.12.39:788][741]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj
+[2019.01.31-02.12.39:816][741]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.12.41:241][741]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.12.41:271][741]LogMaterial: Display: Missing cached shader map for material Chibi_basemeshMat, compiling. 
+[2019.01.31-02.12.41:280][741]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.12.41:280][741]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.12.41:281][741]LogFbx: Warning: Triangulating static mesh Chibi_basemesh
+[2019.01.31-02.12.41:498][741]LogStaticMesh: Building static mesh ChibiBaseMesh_0...
+[2019.01.31-02.12.41:690][741]LogStaticMesh: Built static mesh [0.19s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0
+[2019.01.31-02.12.41:716][741]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.12.41:716][741]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.12.41:751][741]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.31-02.12.41:751][741]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.12.41:751][741]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.12.41:817][741]LogMeshUtilities: Finished distance field build in 0.1s - 8x8x8 distance field, 3828 triangles, Range [-0.1, 0.6], ChibiBaseMesh_0
+[2019.01.31-02.12.41:825][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/TEXTcharater.png)
+[2019.01.31-02.12.41:896][741]LogTexture: Display: Building textures: TEXTcharater (AutoDXT, 1024X1024)
+[2019.01.31-02.12.42:218][745]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.12.43:957][937]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.12.43:960][937]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.13.17:141][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.13.19:164][ 10]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Splash_Cube_001_Skeleton, removing AnimBP from actor.
+[2019.01.31-02.13.20:876][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.13.22:121][324]LogSlate: Took 0.018471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.31-02.13.22:579][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.13.51:663][586]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.31-02.13.51:760][586]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.31-02.13.52:495][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.13.52:570][586]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.01.31-02.13.53:933][586]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.01.31-02.13.53:987][587]LogRenderer: Reallocating scene render targets to support 1180x520 Format 10 NumSamples 1 (Frame:1).
+[2019.01.31-02.13.57:370][866]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.13.57:375][866]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.14.50:473][911]LogAssetEditorManager: Opening Asset editor for CameraAnim /Game/MAX3Dmodle/Charater/NewCameraAnim.NewCameraAnim
+[2019.01.31-02.14.50:511][911]LogCameraAnim: Display: Matinee preview default pawn class is missing.
+[2019.01.31-02.14.50:639][911]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0003 seconds. Added 15 classes and 2 folders.
+[2019.01.31-02.14.50:648][911]LogInit: Transaction tracking system initialized
+[2019.01.31-02.14.50:648][911]EditorErrors: New page: Matinee Initialization
+[2019.01.31-02.14.54:032][121]LogSlate: Window 'NewCameraAnim*' being destroyed
+[2019.01.31-02.14.54:036][121]LogSlate: Window 'NewCameraAnim*' being destroyed
+[2019.01.31-02.14.55:698][293]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.31-02.14.55:710][293]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.15.05:219][931]LogAssetEditorManager: Opening Asset editor for CameraAnim /Game/MAX3Dmodle/Charater/NewCameraAnim.NewCameraAnim
+[2019.01.31-02.15.05:230][931]LogCameraAnim: Display: Matinee preview default pawn class is missing.
+[2019.01.31-02.15.05:230][931]LogInit: Transaction tracking system initialized
+[2019.01.31-02.15.05:230][931]EditorErrors: New page: Matinee Initialization
+[2019.01.31-02.15.12:853][475]LogExit: Transaction tracking system shut down
+[2019.01.31-02.15.12:853][475]LogExit: Transaction tracking system shut down
+[2019.01.31-02.15.14:205][475]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.16.26:273][757]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.16.26:277][757]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.17.25:143][107]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MAX3Dmodle/Charater/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.01.31-02.17.26:279][107]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.01.31-02.17.27:881][107]LogSlate: Took 0.014712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.31-02.17.33:859][528]LogMeshUtilities: Finished distance field build in 6.5s - 64x64x30 distance field, 12 triangles, Range [-0.1, 0.5], PhAT_FloorBox
+[2019.01.31-02.17.42:080][885]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.01.31-02.17.42:085][885]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2019.01.31-02.18.17:972][901]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.01.31-02.18.18:041][902]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.31-02.18.18:041][902]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.31-02.18.18:041][902]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.31-02.18.18:046][902]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.01.31-02.18.18:185][903]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.01.31-02.18.18:213][904]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.01.31-02.18.20:397][146]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.01.31-02.18.20:963][211]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.01.31-02.18.21:236][242]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.01.31-02.18.23:036][442]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.01.31-02.18.23:369][479]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.01.31-02.18.24:516][608]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.01.31-02.18.24:883][642]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.31-02.18.26:553][827]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.31-02.18.26:632][836]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.31-02.18.27:079][885]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.31-02.18.28:308][ 21]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.31-02.18.29:531][159]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.31-02.18.30:537][200]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.31-02.18.30:715][208]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.31-02.18.31:010][217]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.31-02.19.20:593][660]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.31-02.19.20:599][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.19.22:147][796]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.19.22:151][796]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.19.23:547][948]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.25:145][137]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.26:193][260]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.26:358][272]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.01.31-02.19.27:838][428]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.01.31-02.19.27:930][435]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.28:715][519]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.29:106][562]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.01.31-02.19.30:085][673]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.01.31-02.19.30:208][684]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.19.31:731][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.19.41:111][914]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.01.31-02.19.41:118][914]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.19.53:657][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.20.02:024][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.20.02:150][219]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.20.02:154][219]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.01.31-02.20.12:624][259]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.20.25:035][ 37]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.01.31-02.20.31:195][713]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.01.31-02.20.33:810][713]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.01.31-02.21.16:991][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap_Auto1AB5079394C9F4D8D6F6A3788E440699A.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.01.31-02.21.17:012][970]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.973
+[2019.01.31-02.21.17:012][970]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.973
+[2019.01.31-02.21.17:031][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh] ([1] browsable assets)...
+[2019.01.31-02.21.17:135][970]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh]
+[2019.01.31-02.21.17:136][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh]
+[2019.01.31-02.21.17:282][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_Auto18454C49E49FF077E596B058CA05ADDEA.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Auto1.uasset'
+[2019.01.31-02.21.17:284][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/Standardmaterial] ([1] browsable assets)...
+[2019.01.31-02.21.17:322][970]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial]
+[2019.01.31-02.21.17:322][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/Standardmaterial]
+[2019.01.31-02.21.17:352][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Standardmaterial_Auto1864294894BF742360B052C9F89684AB1.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/Standardmaterial_Auto1.uasset'
+[2019.01.31-02.21.17:354][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0] ([1] browsable assets)...
+[2019.01.31-02.21.17:391][970]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0]
+[2019.01.31-02.21.17:391][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0]
+[2019.01.31-02.21.17:412][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_0_Auto1D21FB86D476F6FE8CA5618AAD25C2327.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0_Auto1.uasset'
+[2019.01.31-02.21.17:414][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/Chibi_basemeshMat] ([1] browsable assets)...
+[2019.01.31-02.21.17:426][970]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/Chibi_basemeshMat.Chibi_basemeshMat]
+[2019.01.31-02.21.17:426][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/Chibi_basemeshMat]
+[2019.01.31-02.21.17:442][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Chibi_basemeshMat_Auto139687DF64B1D10317E406982703091A1.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/Chibi_basemeshMat_Auto1.uasset'
+[2019.01.31-02.21.17:444][970]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/TEXTcharater] ([1] browsable assets)...
+[2019.01.31-02.21.17:451][970]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAX3Dmodle/Charater/TEXTcharater.TEXTcharater]
+[2019.01.31-02.21.17:451][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/TEXTcharater]
+[2019.01.31-02.21.17:463][970]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/TEXTcharater_Auto15835D8A34FF20A510D3E2692B922F450.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/TEXTcharater_Auto1.uasset'
+[2019.01.31-02.21.17:465][970]LogFileHelpers: Auto-saving content packages took 0.452
+[2019.01.31-02.21.42:477][904]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.21.56:489][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.21.56:532][ 96]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.21.56:581][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.22.36:588][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.22.36:628][ 96]LogFbx: =================================================
+[2019.01.31-02.22.36:628][ 96]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.22.36:628][ 96]LogFbx: 	Total Deformer Count -27685696.
+[2019.01.31-02.22.36:628][ 96]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.22.36:628][ 96]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.22.36:628][ 96]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.22.36:628][ 96]LogFbx: =================================================
+[2019.01.31-02.22.36:628][ 96]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.22.36:628][ 96]LogFbx: 	Total Deformer Count -27685696.
+[2019.01.31-02.22.36:628][ 96]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.22.36:628][ 96]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.22.36:628][ 96]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.22.36:697][ 96]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.22.36:796][ 96]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.22.36:796][ 96]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.22.36:814][ 96]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.22.36:960][ 96]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.22.36:973][ 96]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton'
+[2019.01.31-02.22.36:973][ 96]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton'
+[2019.01.31-02.22.36:997][ 96]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset'
+[2019.01.31-02.22.36:998][ 96]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset'
+[2019.01.31-02.22.37:014][ 96]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2019.01.31-02.22.37:016][ 96]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.22.37:056][ 96]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-02.22.37:057][ 96]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.31-02.22.37:057][ 96]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-02.22.37:057][ 96]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.01.31-02.22.37:123][ 96]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.22.37:249][ 96]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.22.37:254][ 96]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.22.37:263][ 96]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.22.37:398][ 96]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.22.37:403][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj)
+[2019.01.31-02.22.37:412][ 96]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj
+[2019.01.31-02.22.37:432][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.22.39:046][ 96]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-02.22.39:403][ 96]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-02.22.39:979][ 96]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-02.22.40:591][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.22.40:612][ 96]LogFbx: Warning: Triangulating static mesh Chibi_basemesh
+[2019.01.31-02.22.40:778][ 96]LogStaticMesh: Building static mesh ChibiBaseMesh_0...
+[2019.01.31-02.22.40:978][ 96]LogStaticMesh: Built static mesh [0.20s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0
+[2019.01.31-02.22.40:996][ 96]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.22.40:996][ 96]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.22.41:006][ 96]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.31-02.22.41:006][ 96]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.22.41:006][ 96]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.22.41:052][ 96]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3828 triangles, Range [-0.1, 0.6], ChibiBaseMesh_0
+[2019.01.31-02.22.41:052][ 96]LogStaticMesh: Display: Main thread blocked for 0.043s for async distance field build of ChibiBaseMesh_0 to complete!  This can happen if the mesh is rebuilt excessively.
+[2019.01.31-02.22.43:255][322]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.22.43:259][322]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.23.21:684][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.23.21:901][218]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.23.21:907][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.23.22:668][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.23.24:854][419]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.23.24:859][419]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.23.27:405][704]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.23.27:418][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.23.27:441][704]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.23.41:793][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.23.41:860][299]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.23.41:865][299]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.24.04:369][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.24.09:176][481]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0
+[2019.01.31-02.24.09:799][482]LogRenderer: Reallocating scene render targets to support 1180x556 Format 10 NumSamples 1 (Frame:1).
+[2019.01.31-02.24.19:342][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.24.19:443][589]LogSlate: Window 'ChibiBaseMesh_0*' being destroyed
+[2019.01.31-02.24.19:447][589]LogSlate: Window 'ChibiBaseMesh_0*' being destroyed
+[2019.01.31-02.24.20:618][716]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.24.20:628][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.24.20:653][716]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.24.28:521][482]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.24.28:642][482]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.24.35:765][277]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset.ChibiBaseMesh_PhysicsAsset
+[2019.01.31-02.24.35:827][277]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.01.31-02.24.35:834][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.24.43:860][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.24.43:936][102]LogSlate: Window 'ChibiBaseMesh_PhysicsAsset*' being destroyed
+[2019.01.31-02.24.43:940][102]LogSlate: Window 'ChibiBaseMesh_PhysicsAsset*' being destroyed
+[2019.01.31-02.24.45:374][244]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.24.45:469][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.24.45:506][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.24.45:709][244]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.24.45)
+[2019.01.31-02.24.45:722][244]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.24.45:828][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105535s)
+[2019.01.31-02.24.45:829][244]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.24.45:854][244]LogPlayLevel: PIE: World Init took: (0.026060s)
+[2019.01.31-02.24.45:895][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.172881s)
+[2019.01.31-02.24.46:022][244]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.24.46:031][244]LogInit: FAudioDevice initialized.
+[2019.01.31-02.24.46:184][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.24.46:209][244]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.24.46
+[2019.01.31-02.24.46:234][244]LogWorld: Bringing up level for play took: 0.045037
+[2019.01.31-02.24.46:398][244]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.01.31-02.24.46:566][244]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,862
+[2019.01.31-02.24.46:777][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.24.55:295][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.24.55:320][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.24.55:415][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.24.55:415][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.24.55:544][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.24.55:570][183]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.31-02.24.57:873][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.24.59:340][520]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.24.59:355][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.24.59:377][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.25.01:207][701]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.25.01:211][701]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.25.03:622][977]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.25.03:636][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.25.03:637][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.25.03:637][977]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.25.03)
+[2019.01.31-02.25.03:637][977]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.25.03:654][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016874s)
+[2019.01.31-02.25.03:654][977]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.25.03:655][977]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2019.01.31-02.25.03:655][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018011s)
+[2019.01.31-02.25.03:686][977]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.25.03:694][977]LogInit: FAudioDevice initialized.
+[2019.01.31-02.25.03:732][977]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.25.03:735][977]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.25.03
+[2019.01.31-02.25.03:736][977]LogWorld: Bringing up level for play took: 0.002535
+[2019.01.31-02.25.03:748][977]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,044
+[2019.01.31-02.25.03:750][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.25.05:954][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.25.05:954][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.25.05:983][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.25.05:984][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.25.06:008][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.25.06:058][243]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.31-02.25.11:218][814]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.25.13:173][ 40]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.25.16:514][414]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.25.23:873][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.25.41:961][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.25.58:878][264]Cmd: TRANSACTION UNDO
+[2019.01.31-02.25.58:878][264]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.00:384][349]Cmd: TRANSACTION UNDO
+[2019.01.31-02.26.00:384][349]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.00:924][412]Cmd: TRANSACTION UNDO
+[2019.01.31-02.26.00:924][412]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.01:514][482]Cmd: TRANSACTION UNDO
+[2019.01.31-02.26.01:514][482]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.02:281][572]Cmd: TRANSACTION UNDO
+[2019.01.31-02.26.02:281][572]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.02:950][651]Cmd: TRANSACTION UNDO
+[2019.01.31-02.26.02:950][651]LogEditorTransaction: Undo Set Scale
+[2019.01.31-02.26.06:522][ 28]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.26.07:630][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.26.11:663][435]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset.ChibiBaseMesh_PhysicsAsset
+[2019.01.31-02.26.11:677][435]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.26.17:947][  6]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.26.17:952][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.26.17:965][  6]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.26.34:432][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.26.59:474][  3]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.26.59:479][  3]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.27.10:030][873]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.27.10:043][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.27.10:064][873]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.27.15:523][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.27.32:598][ 77]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset.ChibiBaseMesh_PhysicsAsset
+[2019.01.31-02.27.32:605][ 77]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.27.41:561][889]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton.ChibiBaseMesh_Skeleton
+[2019.01.31-02.27.41:569][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.27.41:628][889]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.28.04:330][842]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.28.04:365][842]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.28.11:774][192]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.28.11:940][192]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.28.12:062][192]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.28.12:064][192]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.28.12:190][192]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.28.12:194][192]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.28.12:316][192]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.28.22:436][919]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.28.22:479][919]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.28.22:527][919]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.29.20:800][919]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.29.20:844][919]LogFbx: =================================================
+[2019.01.31-02.29.20:844][919]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.29.20:844][919]LogFbx: 	Total Deformer Count 686139696.
+[2019.01.31-02.29.20:844][919]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.29.20:844][919]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.29.20:844][919]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.29.20:844][919]LogFbx: =================================================
+[2019.01.31-02.29.20:844][919]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.29.20:844][919]LogFbx: 	Total Deformer Count 686139696.
+[2019.01.31-02.29.20:844][919]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.29.20:844][919]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.29.20:844][919]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.29.20:851][919]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2019.01.31-02.29.20:853][919]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.29.20:878][919]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.29.20:905][919]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-02.29.20:905][919]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.31-02.29.20:905][919]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-02.29.20:905][919]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.29.20:962][919]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.29.20:963][919]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.29.20:963][919]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.29.20:982][919]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.29.20:989][919]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.01.31-02.29.20:996][919]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.29.21:015][919]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.29.21:019][919]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.29.21:032][919]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.29.21:051][919]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.29.21:056][919]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj)
+[2019.01.31-02.29.21:065][919]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj
+[2019.01.31-02.29.21:085][919]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.29.23:380][919]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-02.29.23:475][919]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-02.29.24:106][919]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-02.29.34:618][919]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.29.34:686][919]LogMaterial: Display: Missing cached shader map for material Chibi_basemeshMat, compiling. 
+[2019.01.31-02.29.34:696][919]LogFbx: Warning: Triangulating static mesh Chibi_basemesh
+[2019.01.31-02.29.34:836][919]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.29.34:836][919]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.29.34:836][919]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.29.34:854][919]LogStaticMesh: Building static mesh ChibiBaseMesh_0...
+[2019.01.31-02.29.34:933][919]LogStaticMesh: Built static mesh [0.08s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0
+[2019.01.31-02.29.34:949][919]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.29.34:949][919]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.29.34:960][919]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.31-02.29.34:960][919]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.29.34:960][919]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.29.34:995][919]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3828 triangles, Range [-0.2, 0.7], ChibiBaseMesh_0
+[2019.01.31-02.29.34:995][919]LogStaticMesh: Display: Main thread blocked for 0.033s for async distance field build of ChibiBaseMesh_0 to complete!  This can happen if the mesh is rebuilt excessively.
+[2019.01.31-02.29.36:670][ 66]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.29.36:673][ 66]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.29.38:786][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.29.55:539][114]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.29.58:960][515]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.29.59:117][526]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.01.31-02.30.00:173][652]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.30.00:756][720]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.30.01:111][751]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.30.01:472][790]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.30.02:511][913]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.30.02:635][926]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.30.02:946][957]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.30.03:571][ 30]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.30.03:672][ 40]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.30.14:126][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.30.50:454][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.31.29:365][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.31.59:621][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.31.59:713][134]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.32.00:302][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.32.00:303][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.32.00:303][134]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.32.00)
+[2019.01.31-02.32.00:303][134]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.32.00:319][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016141s)
+[2019.01.31-02.32.00:320][134]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.32.00:320][134]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2019.01.31-02.32.00:320][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017201s)
+[2019.01.31-02.32.00:383][134]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.32.00:392][134]LogInit: FAudioDevice initialized.
+[2019.01.31-02.32.00:419][134]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.32.00:422][134]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.32.00
+[2019.01.31-02.32.00:422][134]LogWorld: Bringing up level for play took: 0.002692
+[2019.01.31-02.32.00:436][134]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,268
+[2019.01.31-02.32.00:499][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.32.08:723][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.32.08:723][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.32.08:758][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.32.08:759][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.32.08:784][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.32.08:828][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.01.31-02.32.11:267][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.32.11:456][304]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.11:470][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.32.11:493][304]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.32.13:239][474]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton.ChibiBaseMesh_Skeleton
+[2019.01.31-02.32.13:245][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.32.13:256][474]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.32.18:196][654]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.32.18:199][654]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.32.20:732][854]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.20:747][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.32.20:770][854]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.32.23:008][ 85]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton.ChibiBaseMesh_Skeleton
+[2019.01.31-02.32.23:013][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.32.23:027][ 85]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.32.24:407][222]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.32.24:411][222]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.32.34:279][861]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.32.34:424][861]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.34:443][861]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.34:445][861]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.34:464][861]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.34:469][861]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.34:488][861]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.40:251][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.32.40:296][102]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.32.40:344][102]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.32.57:336][102]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.32.57:369][102]LogFbx: =================================================
+[2019.01.31-02.32.57:369][102]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.32.57:369][102]LogFbx: 	Total Deformer Count 683781120.
+[2019.01.31-02.32.57:369][102]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.32.57:369][102]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.32.57:369][102]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.32.57:369][102]LogFbx: =================================================
+[2019.01.31-02.32.57:369][102]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.32.57:369][102]LogFbx: 	Total Deformer Count 683781120.
+[2019.01.31-02.32.57:369][102]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.32.57:369][102]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.32.57:369][102]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.32.57:376][102]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2019.01.31-02.32.57:378][102]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.32.57:402][102]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.32.57:428][102]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-02.32.57:428][102]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.31-02.32.57:428][102]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-02.32.57:428][102]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.32.57:486][102]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.32.57:487][102]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.32.57:487][102]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.57:613][102]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.57:619][102]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.01.31-02.32.57:626][102]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.57:750][102]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.57:756][102]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.32.57:765][102]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.32.57:895][102]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.32.57:899][102]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj)
+[2019.01.31-02.32.57:914][102]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.obj
+[2019.01.31-02.32.57:934][102]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.32.59:378][102]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-02.32.59:448][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-02.32.59:482][102]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.32.59:510][102]LogMaterial: Display: Missing cached shader map for material Chibi_basemeshMat, compiling. 
+[2019.01.31-02.32.59:520][102]LogFbx: Warning: Triangulating static mesh Chibi_basemesh
+[2019.01.31-02.32.59:677][102]LogStaticMesh: Building static mesh ChibiBaseMesh_0...
+[2019.01.31-02.32.59:756][102]LogStaticMesh: Built static mesh [0.08s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0
+[2019.01.31-02.32.59:772][102]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.32.59:772][102]LogStaticMesh: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.01.31-02.32.59:782][102]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.31-02.32.59:782][102]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.32.59:782][102]FBXImport: Warning: ChibiBaseMesh_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.01.31-02.32.59:817][102]LogMeshUtilities: Finished distance field build in 0.0s - 8x8x8 distance field, 3828 triangles, Range [-0.2, 0.7], ChibiBaseMesh_0
+[2019.01.31-02.32.59:817][102]LogStaticMesh: Display: Main thread blocked for 0.033s for async distance field build of ChibiBaseMesh_0 to complete!  This can happen if the mesh is rebuilt excessively.
+[2019.01.31-02.33.00:513][139]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.31-02.33.01:438][237]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.33.01:441][237]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.33.02:595][342]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.33.04:138][468]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.33.04:868][539]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.33.05:604][623]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.33.08:490][933]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.33.08:865][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.33.09:182][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap_Auto235A668B44282561025BDE2A2552C3993.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.01.31-02.33.09:187][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.311
+[2019.01.31-02.33.09:187][966]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.311
+[2019.01.31-02.33.09:190][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh] ([1] browsable assets)...
+[2019.01.31-02.33.09:222][966]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh]
+[2019.01.31-02.33.09:222][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh]
+[2019.01.31-02.33.09:240][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_Auto2E81554B74DFEDBCF128208A34E1C7D49.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Auto2.uasset'
+[2019.01.31-02.33.09:242][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset] ([1] browsable assets)...
+[2019.01.31-02.33.09:273][966]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset.ChibiBaseMesh_PhysicsAsset]
+[2019.01.31-02.33.09:273][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset]
+[2019.01.31-02.33.09:286][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_PhysicsAsset_Auto2D04C3E244B055DAE1A65A8BC4F26E312.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_PhysicsAsset_Auto2.uasset'
+[2019.01.31-02.33.09:289][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/Standardmaterial] ([1] browsable assets)...
+[2019.01.31-02.33.09:330][966]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial]
+[2019.01.31-02.33.09:330][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/Standardmaterial]
+[2019.01.31-02.33.09:362][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Standardmaterial_Auto28A50D6264E5A37566CADA8BCC80BD933.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/Standardmaterial_Auto2.uasset'
+[2019.01.31-02.33.09:365][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0] ([1] browsable assets)...
+[2019.01.31-02.33.09:397][966]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh_0.ChibiBaseMesh_0]
+[2019.01.31-02.33.09:397][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0]
+[2019.01.31-02.33.09:415][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_0_Auto22CFF53D4498686F05771DFBD7CC16403.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_0_Auto2.uasset'
+[2019.01.31-02.33.09:418][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton] ([1] browsable assets)...
+[2019.01.31-02.33.09:418][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton]
+[2019.01.31-02.33.09:424][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ChibiBaseMesh_Skeleton_Auto2DFC86E10453F896D98444685395FC025.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton_Auto2.uasset'
+[2019.01.31-02.33.09:426][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/Chibi_basemeshMat] ([1] browsable assets)...
+[2019.01.31-02.33.09:457][966]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/Chibi_basemeshMat.Chibi_basemeshMat]
+[2019.01.31-02.33.09:457][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/Chibi_basemeshMat]
+[2019.01.31-02.33.09:474][966]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Chibi_basemeshMat_Auto2655A5B974607637164146ABFED8C11E3.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/Chibi_basemeshMat_Auto2.uasset'
+[2019.01.31-02.33.09:475][966]LogFileHelpers: Auto-saving content packages took 0.287
+[2019.01.31-02.33.11:211][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.33.18:511][938]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.33.19:489][ 53]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.33.20:240][135]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.33.20:648][182]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.33.21:523][275]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.33.21:659][289]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.33.35:324][854]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.33.43:737][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.33.47:551][ 36]LogMaterial: Display: Missing cached shader map for material TEXTcharater_Mat, compiling. 
+[2019.01.31-02.33.47:567][ 36]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.33.47:567][ 36]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.33.47:567][ 36]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.33.47:569][ 36]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/TEXTcharater_Mat.TEXTcharater_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2019.01.31-02.33.47:571][ 36]LogMaterial: Display: Missing cached shader map for material TEXTcharater_Mat, compiling. 
+[2019.01.31-02.33.48:840][164]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-02.33.51:493][421]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.31-02.33.51:774][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.33.52:287][483]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-02.33.54:617][708]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-02.33.57:206][989]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-02.33.58:105][ 66]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-02.34.01:025][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.34.01:095][307]LogAssetEditorManager: Opening Asset editor for Material /Game/MAX3Dmodle/Charater/Standardmaterial.Standardmaterial
+[2019.01.31-02.34.01:145][307]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.34.01:426][307]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.34.01:464][307]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.31-02.34.01:467][307]LogMaterial: Display: Missing cached shader map for material Standardmaterial, compiling. 
+[2019.01.31-02.34.01:524][307]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.01.31-02.34.01:601][307]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.31-02.34.01:766][308]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-02.34.01:778][308]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.31-02.34.02:078][334]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.31-02.34.02:408][368]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.31-02.34.02:500][378]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.31-02.34.02:953][418]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.31-02.34.02:962][419]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.31-02.34.03:212][446]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.31-02.34.03:496][473]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.31-02.34.03:609][485]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.31-02.34.03:994][525]LogSlate: Window 'Standardmaterial*' being destroyed
+[2019.01.31-02.34.03:998][525]LogSlate: Window 'Standardmaterial*' being destroyed
+[2019.01.31-02.34.04:129][526]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.31-02.34.04:425][553]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.31-02.34.04:425][553]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.31-02.34.04:692][577]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.31-02.34.05:290][625]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.31-02.34.05:418][640]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.31-02.34.05:435][641]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.31-02.34.05:923][697]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.31-02.34.06:215][730]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-02.34.06:397][751]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.31-02.34.06:605][774]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.31-02.34.06:780][794]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.31-02.34.06:923][810]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.31-02.34.06:985][817]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.31-02.34.07:159][837]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.31-02.34.07:302][849]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.31-02.34.07:309][849]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.31-02.34.07:519][869]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.31-02.34.07:802][894]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-02.34.07:815][895]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.31-02.34.08:708][993]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.31-02.34.08:897][ 14]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.31-02.34.09:189][ 48]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.31-02.34.10:130][155]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.31-02.34.10:337][178]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.31-02.34.10:617][209]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.31-02.34.11:603][321]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.31-02.34.11:948][360]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.31-02.34.11:991][365]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-02.34.12:397][411]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.31-02.34.12:430][415]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.31-02.34.12:805][458]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.31-02.34.12:865][465]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.31-02.34.12:899][469]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.31-02.34.13:244][509]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.31-02.34.13:322][518]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.31-02.34.13:331][519]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-02.34.13:671][558]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.31-02.34.13:772][569]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-02.34.14:284][628]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.31-02.34.14:293][629]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.31-02.34.14:596][663]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.31-02.34.14:977][706]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.31-02.34.15:071][717]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.31-02.34.15:174][729]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.31-02.34.15:579][771]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.31-02.34.15:769][791]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-02.34.15:848][800]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.31-02.34.16:950][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.34.19:963][229]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.34.19:979][229]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.34.20:014][229]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.34.23:179][520]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton.ChibiBaseMesh_Skeleton
+[2019.01.31-02.34.23:185][520]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.34.23:208][520]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.34.46:883][609]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.34.46:886][609]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.34.47:938][678]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/MAX3Dmodle/Charater/ChibiBaseMesh_Skeleton.ChibiBaseMesh_Skeleton
+[2019.01.31-02.34.47:948][678]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.34.47:979][678]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.35.13:866][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.35.13:953][327]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.35.13:957][327]LogSlate: Window 'ChibiBaseMesh_Skeleton*' being destroyed
+[2019.01.31-02.35.16:321][572]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.35.16:335][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.35.16:335][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.35.16:335][572]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.35.16)
+[2019.01.31-02.35.16:336][572]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.35.16:351][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015074s)
+[2019.01.31-02.35.16:351][572]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.35.16:352][572]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.01.31-02.35.16:352][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016079s)
+[2019.01.31-02.35.16:412][572]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.35.16:420][572]LogInit: FAudioDevice initialized.
+[2019.01.31-02.35.16:449][572]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.35.16:452][572]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.35.16
+[2019.01.31-02.35.16:452][572]LogWorld: Bringing up level for play took: 0.002695
+[2019.01.31-02.35.16:465][572]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,239
+[2019.01.31-02.35.16:534][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.35.25:122][598]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.35.25:122][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.35.25:152][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.35.25:153][598]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.35.25:176][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.35.25:223][603]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.01.31-02.35.27:652][881]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.35.28:348][950]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.35.28:492][965]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.01.31-02.35.37:152][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.35.45:924][639]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.31-02.35.54:944][663]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.35.54:959][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.35.54:959][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.35.54:959][663]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.35.54)
+[2019.01.31-02.35.54:959][663]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.35.54:975][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015522s)
+[2019.01.31-02.35.54:976][663]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.35.54:976][663]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2019.01.31-02.35.54:976][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016477s)
+[2019.01.31-02.35.55:037][663]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.35.55:045][663]LogInit: FAudioDevice initialized.
+[2019.01.31-02.35.55:073][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.35.55:077][663]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.35.55
+[2019.01.31-02.35.55:077][663]LogWorld: Bringing up level for play took: 0.002764
+[2019.01.31-02.35.55:090][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,386
+[2019.01.31-02.35.55:151][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.36.40:406][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-02.36.40:406][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-02.36.40:408][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.36.43:230][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.36.43:230][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.36.43:266][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.36.43:267][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.36.43:290][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.36.43:335][893]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.01.31-02.36.46:266][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.36.59:666][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.37.27:774][694]LogSlate: Window 'Message' being destroyed
+[2019.01.31-02.37.27:780][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.37.27:840][694]LogEditorFactories: Performing atomic reimport of [D:/Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX]
+[2019.01.31-02.37.27:898][694]LogFbx: Loading FBX Scene from D:/Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.37.27:946][694]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.37.27:957][694]LogFbx: =================================================
+[2019.01.31-02.37.27:957][694]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.37.27:957][694]LogFbx: 	Total Deformer Count -308400992.
+[2019.01.31-02.37.27:957][694]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.37.27:957][694]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.37.27:957][694]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.37.27:958][694]LogFbx: =================================================
+[2019.01.31-02.37.27:958][694]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.37.27:958][694]LogFbx: 	Total Deformer Count -308400992.
+[2019.01.31-02.37.27:958][694]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.37.27:958][694]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.37.27:958][694]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.37.27:983][694]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.37.28:038][694]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.37.28:038][694]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.37.28:039][694]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.28:159][694]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.28:179][694]LogEditorFactories: -- imported successfully
+[2019.01.31-02.37.28:203][694]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.37.28:204][694]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.28:324][694]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.28:343][694]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.28:466][694]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.33:914][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.37.34:892][100]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh'
+[2019.01.31-02.37.34:893][100]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/ChibiBaseMesh'
+[2019.01.31-02.37.34:893][100]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh'
+[2019.01.31-02.37.37:858][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.37.37:902][176]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.37.37:950][176]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.37.56:358][176]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.37.56:391][176]LogFbx: =================================================
+[2019.01.31-02.37.56:391][176]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.37.56:391][176]LogFbx: 	Total Deformer Count 701917968.
+[2019.01.31-02.37.56:391][176]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.37.56:391][176]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.37.56:391][176]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.37.56:391][176]LogFbx: =================================================
+[2019.01.31-02.37.56:391][176]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.37.56:391][176]LogFbx: 	Total Deformer Count 701917968.
+[2019.01.31-02.37.56:391][176]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.37.56:391][176]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.37.56:391][176]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.37.56:397][176]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.37.56:459][176]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.37.56:459][176]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.37.56:460][176]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.56:582][176]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.56:590][176]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.56:714][176]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.56:719][176]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.37.56:731][176]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.37.56:863][176]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.37.58:039][293]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.37.58:043][293]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.38.00:028][530]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.38.02:392][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.38.02:451][738]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.38.02:457][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.01.31-02.38.02:482][738]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.01.31-02.38.04:168][883]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.38.04:172][883]LogSlate: Window 'ChibiBaseMesh*' being destroyed
+[2019.01.31-02.38.13:624][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.38.13:716][940]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.38.13:731][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.13:731][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.38.13:731][940]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.38.13)
+[2019.01.31-02.38.13:731][940]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.38.13:746][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015302s)
+[2019.01.31-02.38.13:747][940]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.38.13:747][940]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.01.31-02.38.13:747][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016178s)
+[2019.01.31-02.38.13:804][940]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.38.13:812][940]LogInit: FAudioDevice initialized.
+[2019.01.31-02.38.13:840][940]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.38.13:844][940]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.38.13
+[2019.01.31-02.38.13:844][940]LogWorld: Bringing up level for play took: 0.002620
+[2019.01.31-02.38.13:857][940]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,847
+[2019.01.31-02.38.13:921][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.14:794][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.01.31-02.38.15:779][101]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.16:356][156]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.38.16:907][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.38.18:675][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.18:675][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.38.18:711][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.38.18:711][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.18:736][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.38.18:780][410]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.01.31-02.38.20:649][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.38.22:772][706]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-02.38.26:001][830]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX)
+[2019.01.31-02.38.26:047][830]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/ChibiBaseMesh.FBX
+[2019.01.31-02.38.26:094][830]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.31-02.38.31:959][830]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.31-02.38.31:991][830]LogFbx: =================================================
+[2019.01.31-02.38.31:991][830]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.38.31:991][830]LogFbx: 	Total Deformer Count 716649904.
+[2019.01.31-02.38.31:991][830]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.38.31:991][830]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.38.31:991][830]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.38.31:991][830]LogFbx: =================================================
+[2019.01.31-02.38.31:991][830]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.01.31-02.38.31:991][830]LogFbx: 	Total Deformer Count 716649904.
+[2019.01.31-02.38.31:991][830]LogFbx: 	Attribute () Type (4).
+[2019.01.31-02.38.31:991][830]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.01.31-02.38.31:991][830]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.01.31-02.38.31:996][830]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.31-02.38.32:051][830]LogSkeletalMesh: Section 0: 2347 vertices, 1 active bones
+[2019.01.31-02.38.32:052][830]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.01.31-02.38.32:052][830]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.38.32:173][830]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.38.36:849][830]LogSlate: Window 'Message' being destroyed
+[2019.01.31-02.38.36:951][830]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2019.01.31-02.38.36:951][830]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.ThirdPersonRun
+[2019.01.31-02.38.36:957][830]LogAnimationCompression: Compression Requested for Empty Animation ThirdPersonRun
+[2019.01.31-02.38.36:957][830]LogAnimationCompression: Compression Requested for Empty Animation ThirdPersonRun
+[2019.01.31-02.38.36:966][830]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2019.01.31-02.38.36:966][830]LogAnimationCompression: Compression Requested for Empty Animation ThirdPersonJump_End
+[2019.01.31-02.38.38:635][830]LogSlate: Window 'Message' being destroyed
+[2019.01.31-02.38.39:617][830]LogSlate: Window 'Message' being destroyed
+[2019.01.31-02.38.39:636][830]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.38.39:758][830]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.38.39:765][830]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.31-02.38.39:775][830]LogSkeletalMesh: Building Skeletal Mesh ChibiBaseMesh...
+[2019.01.31-02.38.39:901][830]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/MAX3Dmodle/Charater/ChibiBaseMesh.ChibiBaseMesh
+[2019.01.31-02.38.41:305][980]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.38.41:308][980]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-02.38.43:323][206]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.43:972][279]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.44:403][329]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.45:859][501]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.31-02.38.48:080][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.38.51:411][101]LogTemp: Repeating last play command: Simulate
+[2019.01.31-02.38.51:425][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.51:425][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.31-02.38.51:426][101]PIE: New page: SIE session: ThirdPersonExampleMap (31/01/2019 04.38.51)
+[2019.01.31-02.38.51:426][101]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.31-02.38.51:441][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015524s)
+[2019.01.31-02.38.51:442][101]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.31-02.38.51:442][101]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.01.31-02.38.51:442][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016614s)
+[2019.01.31-02.38.51:501][101]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.31-02.38.51:509][101]LogInit: FAudioDevice initialized.
+[2019.01.31-02.38.51:537][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.31-02.38.51:541][101]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.31-03.38.51
+[2019.01.31-02.38.51:541][101]LogWorld: Bringing up level for play took: 0.002569
+[2019.01.31-02.38.51:554][101]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,85
+[2019.01.31-02.38.51:617][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.38.52:328][171]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.53:203][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.01.31-02.38.54:210][353]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.01.31-02.38.54:307][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-02.38.54:852][412]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.01.31-02.38.55:586][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.39.01:928][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.39.01:928][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.39.01:960][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.31-02.39.01:960][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.31-02.39.01:984][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-02.39.02:028][250]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.01.31-02.39.03:205][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-02.39.05:478][402]LogSlate: Window 'Save Content' being destroyed
+[2019.01.31-02.39.05:612][402]LogSlate: Window 'ParallelNoteV2 - Unreal Editor' being destroyed
+[2019.01.31-02.39.05:939][403]Cmd: QUIT_EDITOR
+[2019.01.31-02.39.06:440][403]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-02.39.06:475][403]LogExit: Preparing to exit.
+[2019.01.31-02.39.07:751][403]LogExit: Editor shut down
+[2019.01.31-02.39.07:751][403]LogExit: Transaction tracking system shut down
+[2019.01.31-02.39.09:615][403]LogExit: Object subsystem successfully closed.
+[2019.01.31-02.39.09:708][403]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.31-02.39.09:730][403]LogD3D11RHI: Shutdown
+[2019.01.31-02.39.09:730][403]LogD3D11RHI: CleanupD3DDevice
+[2019.01.31-02.39.09:773][403]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.31-02.39.10:728][403]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2019.01.31-02.39.10:728][403]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2019.01.31-02.39.10:741][403]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (630)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module DistCurveEditor (624)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module Matinee (622)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (620)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module PinnedCommandList (618)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module SkeletonEditor (616)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.01.31-02.39.10:754][403]LogModuleManager: Shutting down and abandoning module WorldBrowser (610)
+[2019.01.31-02.39.10:770][403]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.01.31-02.39.10:770][403]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.01.31-02.39.10:783][403]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.01.31-02.39.10:783][403]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.01.31-02.39.10:783][403]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.01.31-02.39.10:795][403]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.01.31-02.39.10:806][403]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.01.31-02.39.10:820][403]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.01.31-02.39.10:832][403]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.01.31-02.39.10:844][403]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.01.31-02.39.10:845][403]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.01.31-02.39.10:854][403]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.01.31-02.39.10:854][403]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.01.31-02.39.10:854][403]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.01.31-02.39.10:854][403]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.01.31-02.39.10:854][403]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.01.31-02.39.10:875][403]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.01.31-02.39.10:875][403]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.01.31-02.39.10:875][403]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.01.31-02.39.10:875][403]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.01.31-02.39.10:875][403]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.01.31-02.39.10:889][403]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.01.31-02.39.10:911][403]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.01.31-02.39.10:911][403]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.01.31-02.39.10:929][403]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.01.31-02.39.10:955][403]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.01.31-02.39.10:970][403]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.01.31-02.39.10:970][403]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.01.31-02.39.10:986][403]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.01.31-02.39.10:986][403]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.01.31-02.39.10:986][403]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.01.31-02.39.11:807][403]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.01.31-02.39.11:807][403]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.01.31-02.39.11:807][403]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.01.31-02.39.11:807][403]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.01.31-02.39.11:807][403]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.01.31-02.39.11:808][403]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.01.31-02.39.11:824][403]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.01.31-02.39.11:837][403]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.01.31-02.39.11:849][403]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.01.31-02.39.11:849][403]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.01.31-02.39.11:849][403]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.01.31-02.39.11:849][403]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.01.31-02.39.11:849][403]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.01.31-02.39.11:860][403]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.01.31-02.39.11:861][403]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.01.31-02.39.11:861][403]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.01.31-02.39.11:861][403]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.01.31-02.39.11:861][403]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.01.31-02.39.11:879][403]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.01.31-02.39.11:888][403]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.01.31-02.39.11:889][403]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.01.31-02.39.11:900][403]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.01.31-02.39.11:954][403]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.01.31-02.39.11:973][403]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.01.31-02.39.11:985][403]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.01.31-02.39.11:985][403]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.01.31-02.39.11:985][403]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.01.31-02.39.11:985][403]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.01.31-02.39.11:986][403]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.01.31-02.39.11:986][403]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.01.31-02.39.11:986][403]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.01.31-02.39.11:986][403]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.01.31-02.39.12:002][403]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.01.31-02.39.12:002][403]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.01.31-02.39.12:003][403]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.01.31-02.39.12:003][403]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.01.31-02.39.12:004][403]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.01.31-02.39.12:029][403]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.01.31-02.39.12:029][403]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.01.31-02.39.12:040][403]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.01.31-02.39.12:040][403]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.01.31-02.39.12:040][403]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.01.31-02.39.12:055][403]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.01.31-02.39.12:071][403]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.01.31-02.39.12:080][403]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.01.31-02.39.12:092][403]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.01.31-02.39.12:096][403]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.01.31-02.39.12:096][403]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.01.31-02.39.12:096][403]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.31-02.39.12:112][403]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.31-02.39.12:136][403]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.31-02.39.12:136][403]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.31-02.39.12:136][403]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.31-02.39.12:143][403]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.31-02.39.12:143][403]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.31-02.39.12:143][403]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.31-02.39.12:157][403]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.31-02.39.12:188][403]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.01.31-02.39.12:188][403]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.01.31-02.39.12:188][403]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.01.31-02.39.12:188][403]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.01.31-02.39.12:205][403]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.01.31-02.39.12:205][403]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.01.31-02.39.12:205][403]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.01.31-02.39.12:205][403]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.31-02.39.12:242][403]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.01.31-02.39.12:250][403]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.01.31-02.39.12:251][403]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.31-02.39.12:251][403]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.31-02.39.12:270][403]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.31-02.39.12:282][403]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.31-02.39.12:282][403]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.31-02.39.12:293][403]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.31-02.39.12:300][403]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.31-02.39.12:300][403]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.31-02.39.12:300][403]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.31-02.39.12:300][403]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.31-02.39.12:300][403]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.31-02.39.12:312][403]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.31-02.39.12:322][403]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.31-02.39.12:334][403]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.31-02.39.12:343][403]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.31-02.39.12:343][403]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.01.31-02.39.12:343][403]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.01.31-02.39.12:343][403]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.01.31-02.39.12:343][403]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.01.31-02.39.12:374][403]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.01.31-02.39.12:374][403]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.01.31-02.39.12:374][403]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.01.31-02.39.12:374][403]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.01.31-02.39.12:374][403]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.01.31-02.39.12:382][403]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.01.31-02.39.12:382][403]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.01.31-02.39.12:382][403]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.01.31-02.39.12:395][403]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.31-02.39.12:395][403]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.31-02.39.12:496][403]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.31-02.39.12:604][403]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.31-02.39.12:604][403]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.31-02.39.12:616][403]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.31-02.39.12:616][403]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.31-02.39.12:616][403]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.31-02.39.12:616][403]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.31-02.39.12:623][403]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.31-02.39.12:632][403]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.31-02.39.12:646][403]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.31-02.39.12:646][403]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.31-02.39.12:654][403]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.31-02.39.12:669][403]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.31-02.39.12:670][403]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.31-02.39.12:671][403]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.31-02.39.12:671][403]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.31-02.39.12:671][403]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.31-02.39.12:683][403]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.31-02.39.12:683][403]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.01.31-02.39.12:692][403]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.01.31-02.39.12:698][403]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.01.31-02.39.12:698][403]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.01.31-02.39.12:698][403]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.01.31-02.39.12:711][403]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.01.31-02.39.12:711][403]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.01.31-02.39.12:712][403]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.01.31-02.39.12:712][403]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.01.31-02.39.12:712][403]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.01.31-02.39.12:725][403]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.01.31-02.39.12:725][403]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.01.31-02.39.12:750][403]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.01.31-02.39.12:763][403]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.01.31-02.39.12:777][403]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.01.31-02.39.12:777][403]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.01.31-02.39.12:777][403]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.01.31-02.39.12:802][403]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.01.31-02.39.12:848][403]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.01.31-02.39.12:848][403]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.01.31-02.39.12:879][403]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.01.31-02.39.12:879][403]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.01.31-02.39.12:880][403]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.01.31-02.39.12:889][403]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.01.31-02.39.12:897][403]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.01.31-02.39.12:907][403]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.01.31-02.39.12:907][403]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.01.31-02.39.12:915][403]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.01.31-02.39.12:933][403]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.01.31-02.39.12:933][403]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.01.31-02.39.12:954][403]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.01.31-02.39.12:966][403]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.01.31-02.39.12:966][403]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.01.31-02.39.13:045][403]LogDerivedDataCache: Shutdown
+[2019.01.31-02.39.13:045][403]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.01.31-02.39.13:045][403]LogXGEController: Cleaning working directory: C:/Users/MAX-GAME/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.01.31-02.39.13:051][403]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.01.31-02.39.13:051][403]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.01.31-02.39.13:062][403]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.01.31-02.39.13:068][403]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.01.31-02.39.13:076][403]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.01.31-02.39.13:076][403]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.01.31-02.39.13:097][403]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.01.31-02.39.13:097][403]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.01.31-02.39.13:097][403]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.01.31-02.39.13:097][403]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.01.31-02.39.13:106][403]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.01.31-02.39.13:117][403]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.01.31-02.39.13:128][403]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.01.31-02.39.13:130][403]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.01.31-02.39.13:130][403]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.01.31-02.39.13:132][403]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.01.31-02.39.13:132][403]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.01.31-02.39.13:172][403]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.01.31-02.39.13:173][403]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.01.31-02.39.13:173][403]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.01.31-02.39.13:173][403]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.01.31-02.39.13:173][403]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.01.31-02.39.13:183][403]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.01.31-02.39.13:193][403]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.01.31-02.39.13:245][403]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.01.31-02.39.13:258][403]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.31-02.39.13:258][403]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B28D4F1B8-4992-3972-693A-9AB23B36041B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4117aea747ad9bd9bf9f51ade1dac875%7C9dc66da4e050489a8bccca371cda8540%7C283dd208-cc54-4bac-b5dc-862bab642dbb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.31-02.39.13:277][403]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.01.31-02.39.13:293][403]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.31-02.39.13:293][403]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.01.31-02.39.13:298][403]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.31-02.39.13:315][403]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.31-02.39.13:315][403]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.31-02.39.13:327][403]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.31-02.39.13:327][403]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.31-02.39.13:327][403]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.31-02.39.13:328][403]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.31-02.39.13:335][403]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.31-02.39.13:348][403]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.31-02.39.13:349][403]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.31-02.39.13:358][403]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.31-02.39.13:358][403]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.31-02.39.13:358][403]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.31-02.39.13:358][403]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.31-02.39.13:366][403]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.31-02.39.13:366][403]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.31-02.39.13:369][403]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.31-02.39.13:369][403]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.31-02.39.13:409][403]LogExit: Exiting.
+[2019.01.31-02.39.13:433][403]Log file closed, 01/31/19 03:39:13
