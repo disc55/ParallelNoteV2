@@ -1,0 +1,1370 @@
+﻿Log file open, 02/03/19 17:19:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ParallelNoteV2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.389563
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.318s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Game/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.060s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.03-16.19.23:249][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.03-16.19.23:249][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.03-16.19.23:322][  0]LogHAL: Display: Platform has ~ 8 GB [8519970816 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.03-16.19.23:325][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.03-16.19.23:329][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.03-16.19.23:377][  0]LogInit: Computer: MAXGAME
+[2019.02.03-16.19.23:377][  0]LogInit: User: MAXGAME
+[2019.02.03-16.19.23:377][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.03-16.19.23:377][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2019.02.03-16.19.23:377][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.03-16.19.23:377][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.03-16.19.23:377][  0]LogMemory: Process Physical Memory: 100.47 MB used, 100.47 MB peak
+[2019.02.03-16.19.23:377][  0]LogMemory: Process Virtual Memory: 84.33 MB used, 84.33 MB peak
+[2019.02.03-16.19.23:377][  0]LogMemory: Physical Memory: 5219.18 MB used,  2906.10 MB free, 8125.28 MB total
+[2019.02.03-16.19.23:377][  0]LogMemory: Virtual Memory: 4625.35 MB used,  2906.10 MB free, 134217728.00 MB total
+[2019.02.03-16.19.24:072][  0]LogInit: Using OS detected language (da-DK).
+[2019.02.03-16.19.24:072][  0]LogInit: Using OS detected locale (da-DK).
+[2019.02.03-16.19.24:139][  0]LogTextLocalizationManager: No localization for 'da-DK' exists, so 'en' will be used for the language.
+[2019.02.03-16.19.24:901][  0]LogStreaming: Display: Took  0.808s to InitEngineTextLocalization.
+[2019.02.03-16.19.24:909][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.03-16.19.25:555][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.03-16.19.25:555][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.03-16.19.28:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.03-16.19.28:268][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.03-16.19.28:344][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.02.03-16.19.28:344][  0]LogD3D11RHI:       2007/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.03-16.19.28:348][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.03-16.19.28:348][  0]LogD3D11RHI:       0/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.03-16.19.28:348][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.03-16.19.28:355][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.03-16.19.28:355][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.03-16.19.28:367][  0]LogWindows: EnumDisplayDevices:
+[2019.02.03-16.19.28:367][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.02.03-16.19.28:367][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.02.03-16.19.28:367][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.03-16.19.28:367][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.03-16.19.28:367][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.03-16.19.28:367][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.02.03-16.19.28:380][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2019.02.03-16.19.28:380][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2019.02.03-16.19.28:381][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.02.03-16.19.28:430][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.03-16.19.28:650][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.03-16.19.28:698][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Intermediate/Shaders/WorkingDirectory/13744/).
+[2019.02.03-16.19.28:698][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MAX-GAME/AppData/Local/Temp/UnrealShaderWorkingDir/786ACD3043B74882CEA7409245C47291/'.
+[2019.02.03-16.19.29:438][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.03-16.19.29:475][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.03-16.19.29:505][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.03-16.19.29:533][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.03-16.19.29:574][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.03-16.19.29:607][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.03-16.19.29:641][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.03-16.19.29:675][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.03-16.19.29:690][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.03-16.19.29:827][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.03-16.19.30:001][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.03-16.19.30:001][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.03-16.19.30:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.03-16.19.30:067][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.03-16.19.30:116][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.03-16.19.30:161][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.03-16.19.30:197][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.03-16.19.30:239][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.03-16.19.30:269][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.03-16.19.30:269][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.03-16.19.31:032][  0]LogXGEController: Cleaning working directory: C:/Users/MAX-GAME/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.03-16.19.31:032][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.03-16.19.31:032][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.03-16.19.31:032][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.03-16.19.34:717][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: Loaded boot cache 0.77s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.03-16.19.35:488][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.03-16.19.35:577][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.03-16.19.35:590][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MAX-GAME/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.03-16.19.35:590][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.03-16.19.35:590][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.03-16.19.35:630][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.03-16.19.35:687][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.03-16.19.35:776][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.03-16.19.36:432][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2019.02.03-16.19.40:063][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.03-16.19.44:678][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.03-16.19.45:390][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.03-16.19.45:390][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.03-16.19.45:428][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.03-16.19.45:428][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.03-16.19.46:698][  0]LogNetVersion: ParallelNoteV2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3415175619)
+[2019.02.03-16.19.52:377][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.200134 seconds
+[2019.02.03-16.19.52:415][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.03-16.19.52:415][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.02.03-16.19.52:415][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.03-16.20.04:968][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.03-16.20.05:008][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.03-16.20.06:399][  0]SourceControl: Source control is disabled
+[2019.02.03-16.20.06:404][  0]SourceControl: Source control is disabled
+[2019.02.03-16.20.06:492][  0]SourceControl: Source control is disabled
+[2019.02.03-16.20.06:523][  0]SourceControl: Source control is disabled
+[2019.02.03-16.20.08:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.03-16.20.08:305][  0]LogOcInput: OculusInput pre-init called
+[2019.02.03-16.20.08:895][  0]LogEngine: Initializing Engine...
+[2019.02.03-16.20.08:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.03-16.20.08:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.03-16.20.08:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.03-16.20.08:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.03-16.20.08:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.03-16.20.09:553][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.03-16.20.09:992][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.03-16.20.10:159][  0]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.20.10:180][  0]LogInit: FAudioDevice initialized.
+[2019.02.03-16.20.10:180][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.03-16.20.10:311][  0]LogDerivedDataCache: Saved boot cache 0.13s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.03-16.20.10:314][  0]LogInit: Texture streaming: Enabled
+[2019.02.03-16.20.10:440][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.03-16.20.10:569][  0]LogInit: Transaction tracking system initialized
+[2019.02.03-16.20.11:121][  0]BlueprintLog: New page: Editor Load
+[2019.02.03-16.20.12:296][  0]LocalizationService: Localization service is disabled
+[2019.02.03-16.20.16:711][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.03-16.20.16:717][  0]LogCook: Display: Mobile HDR setting 0
+[2019.02.03-16.20.16:730][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.03-16.20.16:730][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.03-16.20.16:730][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.03-16.20.16:730][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.03-16.20.16:730][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.03-16.20.17:865][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/' took 1.64s
+[2019.02.03-16.20.19:673][  0]SourceControl: Source control is disabled
+[2019.02.03-16.20.19:698][  0]Cmd: MAP LOAD FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.03-16.20.19:789][  0]LightingResults: New page: Lighting Build
+[2019.02.03-16.20.19:901][  0]MapCheck: New page: Map Check
+[2019.02.03-16.20.19:901][  0]LightingResults: New page: Lighting Build
+[2019.02.03-16.20.25:534][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.20.26:610][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.03-16.20.26:760][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.03-16.20.26:849][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88,176ms to complete.
+[2019.02.03-16.20.26:849][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.163
+[2019.02.03-16.20.28:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.20.28:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.20.28:302][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.20.28:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.20.28:448][  0]LogCollectionManager: Loaded 0 collections in 0.011875 seconds
+[2019.02.03-16.20.28:588][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Collections/' took 0.01s
+[2019.02.03-16.20.28:588][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Developers/MAXGAME/Collections/' took 0.01s
+[2019.02.03-16.20.28:588][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Collections/' took 0.01s
+[2019.02.03-16.20.28:588][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.03-16.20.28:612][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
+[2019.02.03-16.20.28:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.03-16.20.29:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.03-16.20.29:895][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.03-16.20.30:711][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.02.03-16.20.30:909][  0]LogSlate: Took 0.021983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.03-16.20.30:946][  0]LogSlate: Took 0.025656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.03-16.20.30:988][  0]LogSlate: Took 0.014174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.03-16.20.31:374][  0]LogRenderer: Reallocating scene render targets to support 1060x472 Format 10 NumSamples 1 (Frame:1).
+[2019.02.03-16.20.31:476][  0]LogStaticMesh: Allocated 496x174x64 distance field atlas = 10.5Mb, with 47 objects containing 5.5Mb backing data
+[2019.02.03-16.20.31:935][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.03-16.20.31:935][  0]LogLoad: (Engine Initialization) Total time: 88.34 seconds
+[2019.02.03-16.20.31:935][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.03-16.20.32:091][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.03-16.20.32:214][  0]LogSlate: Took 0.014630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.03-16.20.32:732][  3]LogAssetRegistry: Asset discovery search completed in 56.3077 seconds
+[2019.02.03-16.20.32:734][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.03-16.20.32:734][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.02.03-16.20.34:422][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.21.00:423][727]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.03-16.21.00:516][727]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/Item/Charater 02.FBX)
+[2019.02.03-16.21.00:686][727]LogFbx: Loading FBX Scene from ../../../../../Playclaw5/Unreal/Ny mappe/Game map/charater/Item/Charater 02.FBX
+[2019.02.03-16.21.00:714][727]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.03-16.22.19:152][727]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1848626624.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Eyes] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Eyes]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Mouth] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Mouth (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Mouth]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Top] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1141387408.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Top (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Top]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Down] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Down (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Down]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [H3] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1141387408.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] H3 (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [H3]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Armor] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Armor (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Armor]
+[2019.02.03-16.22.19:238][727]LogFbx: =================================================
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node START [Box001] 
+[2019.02.03-16.22.19:238][727]LogFbx: 	Total Deformer Count -1849802920.
+[2019.02.03-16.22.19:238][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:238][727]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2019.02.03-16.22.19:238][727]LogFbx: Dumping Node END [Box001]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Object004] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1892863936.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Object004]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [H3] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1141387408.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] H3 (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [H3]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Box001] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1849802920.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Box001 (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Box001]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Chibi_basemesh] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1848625104.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Chibi_basemesh (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Chibi_basemesh]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Eyes] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Eyes]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Mouth] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Mouth (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Mouth]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Top] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1141387408.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Top (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Top]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Down] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Down (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Down]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Armor] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1893440208.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Armor (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Armor]
+[2019.02.03-16.22.19:239][727]LogFbx: =================================================
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node START [Object004] 
+[2019.02.03-16.22.19:239][727]LogFbx: 	Total Deformer Count -1892873344.
+[2019.02.03-16.22.19:239][727]LogFbx: 	Attribute () Type (4).
+[2019.02.03-16.22.19:239][727]LogFbx: 		[Node Attribute Child 1] Object004 (Type Mesh).
+[2019.02.03-16.22.19:239][727]LogFbx: Dumping Node END [Object004]
+[2019.02.03-16.22.19:252][727]LogFbx: Triangulating skeletal mesh Chibi_basemesh
+[2019.02.03-16.22.19:434][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.19:538][727]LogSkeletalMesh: Section 0: 2314 vertices, 1 active bones
+[2019.02.03-16.22.19:538][727]LogSkeletalMesh: Section 0: Material=0, 3828 triangles
+[2019.02.03-16.22.19:554][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Chibi_basemesh...
+[2019.02.03-16.22.19:586][727]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Chibi_basemesh
+[2019.02.03-16.22.19:604][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton'
+[2019.02.03-16.22.19:604][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton'
+[2019.02.03-16.22.19:637][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset'
+[2019.02.03-16.22.19:637][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset'
+[2019.02.03-16.22.19:646][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.19:688][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Chibi_basemesh...
+[2019.02.03-16.22.19:692][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Chibi_basemesh
+[2019.02.03-16.22.19:936][727]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/NewFolder/Material__7.Material__7 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.02.03-16.22.19:939][727]LogMaterial: Display: Missing cached shader map for material Material__7, compiling. 
+[2019.02.03-16.22.20:195][727]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.03-16.22.20:195][727]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.03-16.22.20:195][727]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.03-16.22.20:197][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/A1'
+[2019.02.03-16.22.20:197][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/A1'
+[2019.02.03-16.22.20:287][727]LogTexture: Display: Building textures: A1 (AutoDXT, 1024X1024)
+[2019.02.03-16.22.20:664][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/A2'
+[2019.02.03-16.22.20:664][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/A2'
+[2019.02.03-16.22.20:689][727]LogTexture: Display: Building textures: A2 (AutoDXT, 1024X1024)
+[2019.02.03-16.22.20:742][727]LogMaterial: Display: Missing cached shader map for material Material__7, compiling. 
+[2019.02.03-16.22.20:754][727]LogMaterial: Warning: /Game/MAX3Dmodle/Charater/NewFolder/Material__7.Material__7 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.02.03-16.22.20:754][727]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/MAX3Dmodle/Charater/NewFolder/A1.A1
+[2019.02.03-16.22.20:754][727]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/MAX3Dmodle/Charater/NewFolder/A2.A2
+[2019.02.03-16.22.20:814][727]LogFbx: Triangulating skeletal mesh Eyes
+[2019.02.03-16.22.20:816][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.20:820][727]LogSkeletalMesh: Section 0: 34 vertices, 1 active bones
+[2019.02.03-16.22.20:820][727]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2019.02.03-16.22.20:821][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Eyes...
+[2019.02.03-16.22.20:822][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Eyes
+[2019.02.03-16.22.20:822][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton'
+[2019.02.03-16.22.20:822][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton'
+[2019.02.03-16.22.20:825][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_PhysicsAsset'
+[2019.02.03-16.22.20:825][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_PhysicsAsset'
+[2019.02.03-16.22.20:830][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.20:833][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.21:533][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Eyes...
+[2019.02.03-16.22.21:533][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Eyes
+[2019.02.03-16.22.21:542][727]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/NewFolder/Material__8.Material__8 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.02.03-16.22.21:544][727]LogMaterial: Display: Missing cached shader map for material Material__8, compiling. 
+[2019.02.03-16.22.21:571][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/M1'
+[2019.02.03-16.22.21:572][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/M1'
+[2019.02.03-16.22.21:602][727]LogTexture: Display: Building textures: M1 (AutoDXT, 1024X1024)
+[2019.02.03-16.22.21:796][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/M2'
+[2019.02.03-16.22.21:796][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/M2'
+[2019.02.03-16.22.21:819][727]LogTexture: Display: Building textures: M2 (AutoDXT, 1024X1024)
+[2019.02.03-16.22.21:878][727]LogMaterial: Display: Missing cached shader map for material Material__8, compiling. 
+[2019.02.03-16.22.21:878][727]LogMaterial: Warning: /Game/MAX3Dmodle/Charater/NewFolder/Material__8.Material__8 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.02.03-16.22.21:878][727]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/MAX3Dmodle/Charater/NewFolder/M1.M1
+[2019.02.03-16.22.21:878][727]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/MAX3Dmodle/Charater/NewFolder/M2.M2
+[2019.02.03-16.22.21:879][727]LogFbx: Triangulating skeletal mesh Mouth
+[2019.02.03-16.22.21:881][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.21:881][727]LogSkeletalMesh: Section 0: 28 vertices, 1 active bones
+[2019.02.03-16.22.21:881][727]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2019.02.03-16.22.21:882][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Mouth...
+[2019.02.03-16.22.21:882][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Mouth
+[2019.02.03-16.22.21:882][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton'
+[2019.02.03-16.22.21:882][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton'
+[2019.02.03-16.22.21:885][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_PhysicsAsset'
+[2019.02.03-16.22.21:885][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_PhysicsAsset'
+[2019.02.03-16.22.21:889][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.21:892][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.21:996][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Mouth...
+[2019.02.03-16.22.21:996][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Mouth
+[2019.02.03-16.22.22:004][727]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/NewFolder/07_-_Default.07_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.02.03-16.22.22:007][727]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2019.02.03-16.22.22:035][727]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2019.02.03-16.22.22:059][727]LogFbx: Triangulating skeletal mesh Top
+[2019.02.03-16.22.22:088][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:100][727]LogSkeletalMesh: Section 0: 584 vertices, 1 active bones
+[2019.02.03-16.22.22:101][727]LogSkeletalMesh: Section 0: Material=0, 822 triangles
+[2019.02.03-16.22.22:101][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Top...
+[2019.02.03-16.22.22:102][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Top
+[2019.02.03-16.22.22:103][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton'
+[2019.02.03-16.22.22:103][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton'
+[2019.02.03-16.22.22:105][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset'
+[2019.02.03-16.22.22:105][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset'
+[2019.02.03-16.22.22:111][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_9:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:115][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Top...
+[2019.02.03-16.22.22:115][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Top
+[2019.02.03-16.22.22:125][727]LogMaterial: Warning: Material /Game/MAX3Dmodle/Charater/NewFolder/08_-_Default.08_-_Default needed to have new flag set bUsedWithSkeletalMesh !
+[2019.02.03-16.22.22:127][727]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2019.02.03-16.22.22:157][727]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2019.02.03-16.22.22:181][727]LogFbx: Triangulating skeletal mesh Down
+[2019.02.03-16.22.22:228][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:242][727]LogSkeletalMesh: Section 0: 515 vertices, 1 active bones
+[2019.02.03-16.22.22:242][727]LogSkeletalMesh: Section 0: Material=0, 792 triangles
+[2019.02.03-16.22.22:242][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Down...
+[2019.02.03-16.22.22:243][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Down
+[2019.02.03-16.22.22:243][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton'
+[2019.02.03-16.22.22:244][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton'
+[2019.02.03-16.22.22:248][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset'
+[2019.02.03-16.22.22:248][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset'
+[2019.02.03-16.22.22:252][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:254][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Down...
+[2019.02.03-16.22.22:255][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Down
+[2019.02.03-16.22.22:256][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:263][727]LogSkeletalMesh: Section 0: 439 vertices, 1 active bones
+[2019.02.03-16.22.22:263][727]LogSkeletalMesh: Section 0: Material=0, 511 triangles
+[2019.02.03-16.22.22:264][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_H3...
+[2019.02.03-16.22.22:264][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_H3
+[2019.02.03-16.22.22:265][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton'
+[2019.02.03-16.22.22:265][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton'
+[2019.02.03-16.22.22:267][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset'
+[2019.02.03-16.22.22:268][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset'
+[2019.02.03-16.22.22:273][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:278][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_H3...
+[2019.02.03-16.22.22:278][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_H3
+[2019.02.03-16.22.22:290][727]LogFbx: Triangulating skeletal mesh Armor
+[2019.02.03-16.22.22:319][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:330][727]LogSkeletalMesh: Section 0: 504 vertices, 1 active bones
+[2019.02.03-16.22.22:330][727]LogSkeletalMesh: Section 0: Material=0, 722 triangles
+[2019.02.03-16.22.22:331][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Armor...
+[2019.02.03-16.22.22:332][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Armor
+[2019.02.03-16.22.22:333][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton'
+[2019.02.03-16.22.22:333][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton'
+[2019.02.03-16.22.22:335][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.03-16.22.22:335][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.03-16.22.22:341][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:344][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Armor...
+[2019.02.03-16.22.22:345][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Armor
+[2019.02.03-16.22.22:346][727]LogFbx: Triangulating skeletal mesh Box001
+[2019.02.03-16.22.22:350][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:352][727]LogSkeletalMesh: Section 0: 108 vertices, 1 active bones
+[2019.02.03-16.22.22:352][727]LogSkeletalMesh: Section 0: Material=0, 122 triangles
+[2019.02.03-16.22.22:353][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Box001...
+[2019.02.03-16.22.22:353][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Box001
+[2019.02.03-16.22.22:354][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton'
+[2019.02.03-16.22.22:354][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton'
+[2019.02.03-16.22.22:356][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset'
+[2019.02.03-16.22.22:357][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset'
+[2019.02.03-16.22.22:362][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:366][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Box001...
+[2019.02.03-16.22.22:366][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Box001
+[2019.02.03-16.22.22:366][727]LogFbx: Triangulating skeletal mesh Object004
+[2019.02.03-16.22.22:368][727]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.02.03-16.22.22:369][727]LogSkeletalMesh: Section 0: 48 vertices, 1 active bones
+[2019.02.03-16.22.22:369][727]LogSkeletalMesh: Section 0: Material=0, 44 triangles
+[2019.02.03-16.22.22:369][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Object004...
+[2019.02.03-16.22.22:369][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Object004
+[2019.02.03-16.22.22:370][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton'
+[2019.02.03-16.22.22:370][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton'
+[2019.02.03-16.22.22:372][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_PhysicsAsset'
+[2019.02.03-16.22.22:373][727]LogLinker: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_PhysicsAsset'
+[2019.02.03-16.22.22:378][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:381][727]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.02.03-16.22.22:495][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Object004...
+[2019.02.03-16.22.22:495][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Object004
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: The bone size is too small to create Physics Asset 'Charater_02_Eyes_PhysicsAsset' from Skeletal Mesh 'Charater_02_Eyes'. You will have to create physics asset manually. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: The bone size is too small to create Physics Asset 'Charater_02_Mouth_PhysicsAsset' from Skeletal Mesh 'Charater_02_Mouth'. You will have to create physics asset manually. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.02.03-16.22.22:580][727]FBXImport: Warning: The bone size is too small to create Physics Asset 'Charater_02_Object004_PhysicsAsset' from Skeletal Mesh 'Charater_02_Object004'. You will have to create physics asset manually. 
+[2019.02.03-16.22.22:657][727]LogSkeletalMesh: Building Skeletal Mesh Charater_02_Object004...
+[2019.02.03-16.22.22:658][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Object004
+[2019.02.03-16.22.24:892][855]LogSlate: Window 'Message Log' being destroyed
+[2019.02.03-16.22.24:896][855]LogSlate: Window 'Message Log' being destroyed
+[2019.02.03-16.22.27:451][ 93]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.02.03-16.22.28:640][222]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.02.03-16.22.30:510][429]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.02.03-16.22.31:218][505]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.02.03-16.22.35:243][948]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.02.03-16.22.35:374][963]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.02.03-16.22.39:432][311]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.03-16.22.39:511][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.22.42:656][583]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.03-16.22.44:148][743]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.22.44:794][743]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.03-16.22.44:794][743]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.03-16.22.51:254][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.22.52:181][408]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.03-16.22.52:341][412]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.03-16.23.00:890][248]LogSlate: Took 0.071183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.03-16.23.03:407][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.23.19:504][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.23.45:918][263]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.45:918][263]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.46:393][282]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.46:393][282]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.48:327][498]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.48:327][498]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.51:133][817]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.51:133][817]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.52:192][936]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.52:192][936]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.52:609][983]Cmd: TRANSACTION UNDO
+[2019.02.03-16.23.52:609][983]LogEditorTransaction: Undo Set Scale
+[2019.02.03-16.23.54:103][151]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.23.54:606][204]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.23.54:639][204]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.23.54:827][205]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.23.54:836][205]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.23.55:500][272]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.23.55:751][299]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.23.58:161][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.24.24:649][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.24.24:749][662]LogTemp: Repeating last play command: Simulate
+[2019.02.03-16.24.24:811][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.24:865][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.03-16.24.25:060][662]PIE: New page: SIE session: ThirdPersonExampleMap (03/02/2019 18.24.24)
+[2019.02.03-16.24.25:061][662]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.03-16.24.25:178][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117140s)
+[2019.02.03-16.24.25:179][662]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.24.25:195][662]LogPlayLevel: PIE: World Init took: (0.017047s)
+[2019.02.03-16.24.25:204][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.142325s)
+[2019.02.03-16.24.25:447][662]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.24.25:458][662]LogInit: FAudioDevice initialized.
+[2019.02.03-16.24.25:660][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.03-16.24.25:799][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.03-17.24.25
+[2019.02.03-16.24.25:840][662]LogWorld: Bringing up level for play took: 0.069501
+[2019.02.03-16.24.25:980][662]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.02.03-16.24.26:089][662]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,746
+[2019.02.03-16.24.26:309][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.27:679][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EA04_Rocks_Snot_01a)
+[2019.02.03-16.24.28:615][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.24.32:625][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.32:632][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.24.32:736][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.03-16.24.32:737][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.32:840][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.24.32:897][309]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.02.03-16.24.35:806][656]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.24.38:034][894]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.24.38:136][901]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.24.46:757][915]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.24.50:712][371]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.24.50:904][380]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.24.51:568][453]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.24.54:288][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.24.55:899][950]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.24.56:818][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.24.56:893][ 60]LogTemp: Repeating last play command: Simulate
+[2019.02.03-16.24.56:909][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.56:909][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.03-16.24.56:909][ 60]PIE: New page: SIE session: ThirdPersonExampleMap (03/02/2019 18.24.56)
+[2019.02.03-16.24.56:909][ 60]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.03-16.24.56:926][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016306s)
+[2019.02.03-16.24.56:926][ 60]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.24.56:927][ 60]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.02.03-16.24.56:927][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017209s)
+[2019.02.03-16.24.56:951][ 60]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.24.56:960][ 60]LogInit: FAudioDevice initialized.
+[2019.02.03-16.24.57:000][ 60]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.03-16.24.57:003][ 60]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.03-17.24.57
+[2019.02.03-16.24.57:004][ 60]LogWorld: Bringing up level for play took: 0.002632
+[2019.02.03-16.24.57:017][ 60]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,673
+[2019.02.03-16.24.57:027][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.59:728][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.59:729][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.24.59:758][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.03-16.24.59:759][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.24.59:781][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.24.59:832][386]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.02.03-16.25.01:382][571]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.25.04:482][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.03-16.25.08:303][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.03-16.25.28:223][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.25.31:044][713]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.25.35:774][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.25.43:161][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.25.46:220][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.25.49:454][802]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.03-16.25.49:475][802]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.02.03-16.25.50:816][954]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.03-16.25.50:836][954]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.02.03-16.25.56:271][575]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.25.56:981][636]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.25.57:381][677]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.25.57:689][708]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.03-16.26.05:776][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.26.08:328][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.26.12:883][234]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.26.16:577][643]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Armor_PhysicsAsset)
+[2019.02.03-16.26.23:258][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.26.27:247][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.26.40:500][448]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.26.40:545][448]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2019.02.03-16.26.42:212][636]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.26.42:847][703]Cmd: TRANSACTION UNDO
+[2019.02.03-16.26.42:848][703]LogEditorTransaction: Undo Clicking on Actors
+[2019.02.03-16.26.43:356][752]Cmd: TRANSACTION UNDO
+[2019.02.03-16.26.43:356][752]LogEditorTransaction: Undo Clicking on Components
+[2019.02.03-16.26.43:946][807]Cmd: TRANSACTION UNDO
+[2019.02.03-16.26.43:946][807]LogEditorTransaction: Undo Clicking on Actors
+[2019.02.03-16.26.46:188][ 64]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.27.02:437][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.27.03:818][851]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.27.06:251][134]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.27.07:492][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.27.18:688][527]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.27.18:707][527]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.03-16.27.19:826][657]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.27.24:088][157]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.27.25:513][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.27.34:191][337]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.27.35:045][434]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.27.37:401][708]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.27.39:899][967]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.27.52:788][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.28.14:922][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.28.18:722][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.28.33:264][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.28.51:234][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.29.19:918][226]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.29.22:256][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.29.30:961][392]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.29.31:933][492]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.29.32:837][594]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.30.07:854][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.30.09:348][198]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.30.14:533][762]Cmd: TRANSACTION UNDO
+[2019.02.03-16.30.14:533][762]LogEditorTransaction: Undo Move Actors
+[2019.02.03-16.30.17:358][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.30.24:169][885]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.02.03-16.30.24:619][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.03-16.30.25:753][ 15]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_H3)
+[2019.02.03-16.30.30:577][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.30.58:087][803]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.31.00:734][113]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_H3)
+[2019.02.03-16.31.02:470][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.31.39:096][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.31.44:480][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.31.50:555][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.31.57:123][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.32.26:207][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.32.33:736][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.32.47:779][673]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Down)
+[2019.02.03-16.32.50:127][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.32.57:595][685]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.33.02:414][211]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Top)
+[2019.02.03-16.33.03:984][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.33.16:459][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.33.18:613][882]LogRenderer: Reallocating scene render targets to support 1060x480 Format 10 NumSamples 1 (Frame:84763).
+[2019.02.03-16.33.19:644][994]LogRenderer: Reallocating scene render targets to support 1060x488 Format 10 NumSamples 1 (Frame:84871).
+[2019.02.03-16.33.19:686][995]LogRenderer: Reallocating scene render targets to support 1060x496 Format 10 NumSamples 1 (Frame:84873).
+[2019.02.03-16.33.19:728][996]LogRenderer: Reallocating scene render targets to support 1060x500 Format 10 NumSamples 1 (Frame:84875).
+[2019.02.03-16.33.19:770][997]LogRenderer: Reallocating scene render targets to support 1060x508 Format 10 NumSamples 1 (Frame:84877).
+[2019.02.03-16.33.19:812][998]LogRenderer: Reallocating scene render targets to support 1060x512 Format 10 NumSamples 1 (Frame:84879).
+[2019.02.03-16.33.19:856][999]LogRenderer: Reallocating scene render targets to support 1060x516 Format 10 NumSamples 1 (Frame:84881).
+[2019.02.03-16.33.19:893][  0]LogRenderer: Reallocating scene render targets to support 1060x520 Format 10 NumSamples 1 (Frame:84883).
+[2019.02.03-16.33.19:936][  1]LogRenderer: Reallocating scene render targets to support 1060x528 Format 10 NumSamples 1 (Frame:84885).
+[2019.02.03-16.33.19:979][  2]LogRenderer: Reallocating scene render targets to support 1060x536 Format 10 NumSamples 1 (Frame:84887).
+[2019.02.03-16.33.20:032][  3]LogRenderer: Reallocating scene render targets to support 1060x540 Format 10 NumSamples 1 (Frame:84889).
+[2019.02.03-16.33.20:073][  4]LogRenderer: Reallocating scene render targets to support 1060x556 Format 10 NumSamples 1 (Frame:84891).
+[2019.02.03-16.33.20:115][  5]LogRenderer: Reallocating scene render targets to support 1060x564 Format 10 NumSamples 1 (Frame:84893).
+[2019.02.03-16.33.20:157][  6]LogRenderer: Reallocating scene render targets to support 1060x572 Format 10 NumSamples 1 (Frame:84895).
+[2019.02.03-16.33.20:199][  7]LogRenderer: Reallocating scene render targets to support 1060x580 Format 10 NumSamples 1 (Frame:84897).
+[2019.02.03-16.33.20:239][  8]LogRenderer: Reallocating scene render targets to support 1060x588 Format 10 NumSamples 1 (Frame:84899).
+[2019.02.03-16.33.20:282][  9]LogRenderer: Reallocating scene render targets to support 1060x596 Format 10 NumSamples 1 (Frame:84901).
+[2019.02.03-16.33.20:323][ 10]LogRenderer: Reallocating scene render targets to support 1060x600 Format 10 NumSamples 1 (Frame:84903).
+[2019.02.03-16.33.20:367][ 11]LogRenderer: Reallocating scene render targets to support 1060x608 Format 10 NumSamples 1 (Frame:84905).
+[2019.02.03-16.33.20:407][ 12]LogRenderer: Reallocating scene render targets to support 1060x616 Format 10 NumSamples 1 (Frame:84907).
+[2019.02.03-16.33.20:449][ 13]LogRenderer: Reallocating scene render targets to support 1060x628 Format 10 NumSamples 1 (Frame:84909).
+[2019.02.03-16.33.20:486][ 14]LogRenderer: Reallocating scene render targets to support 1060x636 Format 10 NumSamples 1 (Frame:84911).
+[2019.02.03-16.33.20:528][ 15]LogRenderer: Reallocating scene render targets to support 1060x640 Format 10 NumSamples 1 (Frame:84913).
+[2019.02.03-16.33.20:570][ 16]LogRenderer: Reallocating scene render targets to support 1060x644 Format 10 NumSamples 1 (Frame:84915).
+[2019.02.03-16.33.22:257][217]LogTemp: Repeating last play command: Simulate
+[2019.02.03-16.33.22:277][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.33.22:277][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.03-16.33.22:277][217]PIE: New page: SIE session: ThirdPersonExampleMap (03/02/2019 18.33.22)
+[2019.02.03-16.33.22:277][217]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.03-16.33.22:297][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020015s)
+[2019.02.03-16.33.22:298][217]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.33.22:298][217]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2019.02.03-16.33.22:298][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021058s)
+[2019.02.03-16.33.22:323][217]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.33.22:332][217]LogInit: FAudioDevice initialized.
+[2019.02.03-16.33.22:367][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.03-16.33.22:370][217]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.03-17.33.22
+[2019.02.03-16.33.22:370][217]LogWorld: Bringing up level for play took: 0.003059
+[2019.02.03-16.33.22:383][217]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,04
+[2019.02.03-16.33.22:405][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.33.26:656][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EA_Bush2d2)
+[2019.02.03-16.33.28:178][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.33.34:642][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.33.34:702][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.33.34:702][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.33.34:730][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.03-16.33.34:731][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.33.34:752][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.33.34:809][565]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.03-16.33.38:221][947]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.33.40:434][187]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.33.40:519][188]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.03-16.33.40:924][235]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Top)
+[2019.02.03-16.33.41:485][296]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.33.44:434][625]Cmd: TRANSACTION UNDO
+[2019.02.03-16.33.44:434][625]LogEditorTransaction: Undo Move Actors
+[2019.02.03-16.33.50:153][270]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.33.50:257][280]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.02.03-16.33.52:122][460]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.33.52:172][460]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.02.03-16.33.53:103][568]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.33.54:600][731]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.33.54:711][742]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.02.03-16.34.03:106][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.34.11:576][730]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.02.03-16.34.11:734][747]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.34.12:551][822]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.03-16.34.12:658][831]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.02.03-16.34.16:153][230]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.03-16.34.17:547][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.34.17:638][397]LogTemp: Repeating last play command: Simulate
+[2019.02.03-16.34.17:655][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.17:655][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.03-16.34.17:655][397]PIE: New page: SIE session: ThirdPersonExampleMap (03/02/2019 18.34.17)
+[2019.02.03-16.34.17:655][397]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.03-16.34.17:672][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016475s)
+[2019.02.03-16.34.17:673][397]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.34.17:673][397]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2019.02.03-16.34.17:673][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017756s)
+[2019.02.03-16.34.17:698][397]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.34.17:707][397]LogInit: FAudioDevice initialized.
+[2019.02.03-16.34.17:737][397]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.03-16.34.17:740][397]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.03-17.34.17
+[2019.02.03-16.34.17:740][397]LogWorld: Bringing up level for play took: 0.003005
+[2019.02.03-16.34.17:753][397]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,59
+[2019.02.03-16.34.17:763][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.28:724][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.28:724][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.34.28:759][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.03-16.34.28:760][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.28:781][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.34.28:828][711]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.02.03-16.34.33:128][207]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Armor_PhysicsAsset)
+[2019.02.03-16.34.34:848][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.34.36:166][557]LogTemp: Repeating last play command: Simulate
+[2019.02.03-16.34.36:183][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.36:183][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.03-16.34.36:183][557]PIE: New page: SIE session: ThirdPersonExampleMap (03/02/2019 18.34.36)
+[2019.02.03-16.34.36:183][557]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.03-16.34.36:201][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017980s)
+[2019.02.03-16.34.36:202][557]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.03-16.34.36:202][557]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.02.03-16.34.36:202][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018875s)
+[2019.02.03-16.34.36:228][557]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.03-16.34.36:237][557]LogInit: FAudioDevice initialized.
+[2019.02.03-16.34.36:271][557]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.03-16.34.36:274][557]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.03-17.34.36
+[2019.02.03-16.34.36:274][557]LogWorld: Bringing up level for play took: 0.002974
+[2019.02.03-16.34.36:287][557]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,057
+[2019.02.03-16.34.36:308][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.40:219][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.34.43:778][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.43:779][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.34.43:810][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.03-16.34.43:811][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.03-16.34.43:833][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.03-16.34.43:882][404]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.02.03-16.34.47:117][766]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Charater_02_Armor_PhysicsAsset)
+[2019.02.03-16.34.48:384][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.35.20:309][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.35.38:559][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.03-16.35.39:865][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap_Auto1FD9CC03F4DA912F348F431BE75AF0AAD.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.02.03-16.35.39:924][531]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.350
+[2019.02.03-16.35.39:924][531]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.350
+[2019.02.03-16.35.39:973][531]OBJ SavePackage: Generating thumbnails for [9] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02] ([9] browsable assets)...
+[2019.02.03-16.35.40:010][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Chibi_basemesh]
+[2019.02.03-16.35.40:021][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Eyes]
+[2019.02.03-16.35.40:033][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Mouth]
+[2019.02.03-16.35.40:044][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Top]
+[2019.02.03-16.35.40:055][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Down]
+[2019.02.03-16.35.40:066][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_H3]
+[2019.02.03-16.35.40:079][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Armor]
+[2019.02.03-16.35.40:090][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Box001]
+[2019.02.03-16.35.40:102][531]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Object004]
+[2019.02.03-16.35.40:102][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02]
+[2019.02.03-16.35.40:211][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Auto1102C546247FE2E97DD847D9D27B2E60A.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Auto1.uasset'
+[2019.02.03-16.35.40:213][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:213][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton]
+[2019.02.03-16.35.40:222][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Chibi_basemesh_Skele483EF1ED466777B49E53909090E13B6B.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:224][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:235][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset.Charater_02_Chibi_basemesh_PhysicsAsset]
+[2019.02.03-16.35.40:235][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset]
+[2019.02.03-16.35.40:252][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Chibi_basemesh_PhysiCD5B6ABE4DF118F821A958A074918ACC.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:254][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Material__7] ([1] browsable assets)...
+[2019.02.03-16.35.40:266][531]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/NewFolder/Material__7.Material__7]
+[2019.02.03-16.35.40:266][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Material__7]
+[2019.02.03-16.35.40:284][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Material__7_Auto151D15E2140C51C4C64DF05AFC7BCDF87.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Material__7_Auto1.uasset'
+[2019.02.03-16.35.40:287][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/A1] ([1] browsable assets)...
+[2019.02.03-16.35.40:293][531]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAX3Dmodle/Charater/NewFolder/A1.A1]
+[2019.02.03-16.35.40:293][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/A1]
+[2019.02.03-16.35.40:305][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/A1_Auto18B9A902840D4BDA7F01101B947D27025.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/A1_Auto1.uasset'
+[2019.02.03-16.35.40:309][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/A2] ([1] browsable assets)...
+[2019.02.03-16.35.40:312][531]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAX3Dmodle/Charater/NewFolder/A2.A2]
+[2019.02.03-16.35.40:312][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/A2]
+[2019.02.03-16.35.40:349][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/A2_Auto1D0F44E354767CF192818338E24CEB3F2.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/A2_Auto1.uasset'
+[2019.02.03-16.35.40:352][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:352][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton]
+[2019.02.03-16.35.40:359][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Eyes_Skeleton_Auto1F4652EB34B9675853670EA81C85B3D18.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:362][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Material__8] ([1] browsable assets)...
+[2019.02.03-16.35.40:387][531]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/NewFolder/Material__8.Material__8]
+[2019.02.03-16.35.40:387][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Material__8]
+[2019.02.03-16.35.40:406][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Material__8_Auto141684F154F927A2CAAD6E5B6AD7842E3.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Material__8_Auto1.uasset'
+[2019.02.03-16.35.40:409][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/M1] ([1] browsable assets)...
+[2019.02.03-16.35.40:415][531]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAX3Dmodle/Charater/NewFolder/M1.M1]
+[2019.02.03-16.35.40:415][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/M1]
+[2019.02.03-16.35.40:429][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/M1_Auto19505B62540129BC8ED0D76B1D8AE3855.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/M1_Auto1.uasset'
+[2019.02.03-16.35.40:432][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/M2] ([1] browsable assets)...
+[2019.02.03-16.35.40:435][531]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MAX3Dmodle/Charater/NewFolder/M2.M2]
+[2019.02.03-16.35.40:436][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/M2]
+[2019.02.03-16.35.40:448][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/M2_Auto1D3DDAE3C45374C5E3A1D9E81091C2F56.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/M2_Auto1.uasset'
+[2019.02.03-16.35.40:450][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:450][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton]
+[2019.02.03-16.35.40:458][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Mouth_Skeleton_Auto1DB7BBAE141E1239AFDBC379B11791ECF.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:461][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/07_-_Default] ([1] browsable assets)...
+[2019.02.03-16.35.40:472][531]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/NewFolder/07_-_Default.07_-_Default]
+[2019.02.03-16.35.40:473][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/07_-_Default]
+[2019.02.03-16.35.40:513][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/07_-_Default_Auto1491A92AF4A64CBE7C3FF4F848FDCC732.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/07_-_Default_Auto1.uasset'
+[2019.02.03-16.35.40:515][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:515][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton]
+[2019.02.03-16.35.40:575][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Top_Skeleton_Auto158A581334A9C3AA1110A70860E1B430C.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:578][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:589][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset.Charater_02_Top_PhysicsAsset]
+[2019.02.03-16.35.40:589][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset]
+[2019.02.03-16.35.40:607][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Top_PhysicsAsset_AutB939DC6C462C10D307B623B691372AB4.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:610][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/08_-_Default] ([1] browsable assets)...
+[2019.02.03-16.35.40:620][531]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MAX3Dmodle/Charater/NewFolder/08_-_Default.08_-_Default]
+[2019.02.03-16.35.40:620][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/08_-_Default]
+[2019.02.03-16.35.40:657][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/08_-_Default_Auto1823C5126450D70BC504A6F95350E0D56.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/08_-_Default_Auto1.uasset'
+[2019.02.03-16.35.40:660][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:660][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton]
+[2019.02.03-16.35.40:681][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Down_Skeleton_Auto1735B2B00455D415ED488159F04C15834.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:683][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:694][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset.Charater_02_Down_PhysicsAsset]
+[2019.02.03-16.35.40:694][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset]
+[2019.02.03-16.35.40:710][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Down_PhysicsAsset_AuA77CF8C844E8B5F77E9C8A877C2FD5F0.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:712][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:712][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton]
+[2019.02.03-16.35.40:721][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_H3_Skeleton_Auto1F51AB4D64B68A7B958B725B0A2B0E9CC.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:723][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:735][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset.Charater_02_H3_PhysicsAsset]
+[2019.02.03-16.35.40:735][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset]
+[2019.02.03-16.35.40:751][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_H3_PhysicsAsset_Auto6C6113F54564854B991AC0A3837FCAB0.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:754][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:754][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton]
+[2019.02.03-16.35.40:761][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Armor_Skeleton_Auto1464A9EB348C36EB604B17EAC1E8407F8.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:763][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:775][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset.Charater_02_Armor_PhysicsAsset]
+[2019.02.03-16.35.40:775][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset]
+[2019.02.03-16.35.40:789][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Armor_PhysicsAsset_A2C5B91F6441A09608FF4ACB13BBEE25C.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:792][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:792][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton]
+[2019.02.03-16.35.40:799][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Box001_Skeleton_AutoE21A7E4649EA9632F1BF0E8ED4ECD1E3.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:802][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset] ([1] browsable assets)...
+[2019.02.03-16.35.40:813][531]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset.Charater_02_Box001_PhysicsAsset]
+[2019.02.03-16.35.40:813][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset]
+[2019.02.03-16.35.40:843][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Box001_PhysicsAsset_83061CD64005AA3565574798251F977D.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset_Auto1.uasset'
+[2019.02.03-16.35.40:845][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton] ([1] browsable assets)...
+[2019.02.03-16.35.40:845][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton]
+[2019.02.03-16.35.40:853][531]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Object004_Skeleton_A4B608C2E41DBE242A7E8AE8FC903BD38.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Autosaves/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton_Auto1.uasset'
+[2019.02.03-16.35.40:855][531]LogFileHelpers: Auto-saving content packages took 0.898
+[2019.02.03-16.36.34:149][511]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.03-16.36.34:149][511]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.03-16.36.34:153][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.36.34:617][511]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap89777FFA475FD06FF1435F913779F5CE.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.03-16.36.34:928][511]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap_BuiltData8810D8BB48FD603A23E49D84F7519061.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.03-16.36.36:378][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.03-16.36.42:108][656]LogSlate: Window 'Save Content' being destroyed
+[2019.02.03-16.36.42:129][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.03-16.36.42:157][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/07_-_Default1D29425E44CBEEF1B7EDEDBDF0F62108.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/07_-_Default.uasset'
+[2019.02.03-16.36.42:182][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/08_-_Default9723673444DCDD58EB6E0BA3C5D54DCF.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/08_-_Default.uasset'
+[2019.02.03-16.36.42:196][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAX3Dmodle/Charater/NewFolder/A1" FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/A1.uasset" SILENT=true
+[2019.02.03-16.36.42:298][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/A15ED88D2849F5E140571F9BA1C871C202.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/A1.uasset'
+[2019.02.03-16.36.42:310][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAX3Dmodle/Charater/NewFolder/A2" FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/A2.uasset" SILENT=true
+[2019.02.03-16.36.42:382][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/A2739AFEAA4EB012C39053DE9B30ED037C.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/A2.uasset'
+[2019.02.03-16.36.42:432][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02B1DF62F8408AE16E308AC4B303C24691.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02.uasset'
+[2019.02.03-16.36.42:454][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Armor_PhysicsAsset8DE5022447A076415D8DA2A3E62B4811.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:476][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Armor_SkeletonA1761FA34AEFF7E8BCB825B80C33351C.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_Skeleton.uasset'
+[2019.02.03-16.36.42:499][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Box001_PhysicsAssetE34C1F22482A28027439D4AAA34C7584.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:529][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Box001_Skeleton59C5BFE5455FD82666BD41B8AE686BFE.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Box001_Skeleton.uasset'
+[2019.02.03-16.36.42:552][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Chibi_basemesh_Physi2CD6FE2646C965F88CA1349A80C281BB.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:577][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Chibi_basemesh_Skele48BE8897406305EA9127549798503437.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Chibi_basemesh_Skeleton.uasset'
+[2019.02.03-16.36.42:605][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Down_PhysicsAssetCF95D3274FC2C2CAE816B3AC1E05967D.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:625][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Down_Skeleton35C4FB1748F0696488601080F4910852.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Down_Skeleton.uasset'
+[2019.02.03-16.36.42:646][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Eyes_SkeletonE76A2BB9491A2050384ABA921B0029DF.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Eyes_Skeleton.uasset'
+[2019.02.03-16.36.42:665][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_H3_PhysicsAssetF11D079040413D8C08D8F2AD4F6AF482.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:692][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_H3_Skeleton39FD64DF4D3EF44BD19A0BA7F921A1FC.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_H3_Skeleton.uasset'
+[2019.02.03-16.36.42:711][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Mouth_Skeleton939A61DD4C8C7C08C0E6B0A50268F580.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Mouth_Skeleton.uasset'
+[2019.02.03-16.36.42:731][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Object004_Skeleton2AE28A7A45A0003ADA69D0B5784FF5FC.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Object004_Skeleton.uasset'
+[2019.02.03-16.36.42:752][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Top_PhysicsAsset17E2E5854E8164B460E39EBDE63E796E.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_PhysicsAsset.uasset'
+[2019.02.03-16.36.42:770][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Charater_02_Top_Skeleton5A7B417B4AF4F1A2398960BBAB21F6CB.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Charater_02_Top_Skeleton.uasset'
+[2019.02.03-16.36.42:782][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAX3Dmodle/Charater/NewFolder/M1" FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/M1.uasset" SILENT=true
+[2019.02.03-16.36.42:859][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/M1F98B4D564343102136EEF6BDF3D11E58.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/M1.uasset'
+[2019.02.03-16.36.42:869][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAX3Dmodle/Charater/NewFolder/M2" FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/M2.uasset" SILENT=true
+[2019.02.03-16.36.42:941][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/M212F61A2547B3A0D6E2ACDAB1E9B2D876.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/M2.uasset'
+[2019.02.03-16.36.42:962][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Material__7DAC2592440A8C06ED97B90BB0E11DE1D.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Material__7.uasset'
+[2019.02.03-16.36.42:982][656]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Material__816B595FC4CCB3D711349ACB2A3F6E280.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/MAX3Dmodle/Charater/NewFolder/Material__8.uasset'
+[2019.02.03-16.36.43:170][656]LogSlate: Window 'ParallelNoteV2 - Unreal Editor' being destroyed
+[2019.02.03-16.36.43:593][657]Cmd: QUIT_EDITOR
+[2019.02.03-16.36.44:288][657]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.03-16.36.44:333][657]LogExit: Preparing to exit.
+[2019.02.03-16.36.44:995][657]LogExit: Editor shut down
+[2019.02.03-16.36.44:995][657]LogExit: Transaction tracking system shut down
+[2019.02.03-16.36.46:925][657]LogExit: Object subsystem successfully closed.
+[2019.02.03-16.36.47:128][657]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.03-16.36.47:166][657]LogD3D11RHI: Shutdown
+[2019.02.03-16.36.47:166][657]LogD3D11RHI: CleanupD3DDevice
+[2019.02.03-16.36.47:212][657]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.03-16.36.48:222][657]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.02.03-16.36.48:222][657]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.02.03-16.36.48:234][657]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.02.03-16.36.48:234][657]LogModuleManager: Shutting down and abandoning module WorldBrowser (610)
+[2019.02.03-16.36.48:246][657]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.02.03-16.36.48:246][657]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.02.03-16.36.48:260][657]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.02.03-16.36.48:260][657]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.02.03-16.36.48:260][657]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.02.03-16.36.48:272][657]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.02.03-16.36.48:283][657]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.02.03-16.36.48:297][657]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.02.03-16.36.48:334][657]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.02.03-16.36.48:345][657]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.02.03-16.36.48:347][657]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.02.03-16.36.48:355][657]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.02.03-16.36.48:355][657]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.02.03-16.36.48:355][657]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.02.03-16.36.48:356][657]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.02.03-16.36.48:356][657]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.02.03-16.36.48:375][657]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.02.03-16.36.48:375][657]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.02.03-16.36.48:400][657]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.02.03-16.36.48:400][657]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.02.03-16.36.48:400][657]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.02.03-16.36.48:435][657]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.02.03-16.36.48:458][657]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.02.03-16.36.48:475][657]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.02.03-16.36.48:494][657]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.02.03-16.36.48:523][657]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.02.03-16.36.48:546][657]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.02.03-16.36.48:546][657]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.02.03-16.36.48:561][657]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.02.03-16.36.48:561][657]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.02.03-16.36.48:561][657]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.02.03-16.36.49:177][657]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.02.03-16.36.49:177][657]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.02.03-16.36.49:177][657]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.02.03-16.36.49:177][657]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.02.03-16.36.49:177][657]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.02.03-16.36.49:178][657]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.02.03-16.36.49:192][657]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.02.03-16.36.49:205][657]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.02.03-16.36.49:217][657]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.02.03-16.36.49:217][657]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.02.03-16.36.49:217][657]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.02.03-16.36.49:217][657]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.02.03-16.36.49:217][657]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.02.03-16.36.49:229][657]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.02.03-16.36.49:229][657]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.02.03-16.36.49:229][657]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.02.03-16.36.49:229][657]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.02.03-16.36.49:229][657]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.02.03-16.36.49:248][657]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.02.03-16.36.49:256][657]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.02.03-16.36.49:269][657]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.02.03-16.36.49:284][657]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.02.03-16.36.49:340][657]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.02.03-16.36.49:358][657]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.02.03-16.36.49:379][657]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.02.03-16.36.49:379][657]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.02.03-16.36.49:379][657]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.02.03-16.36.49:379][657]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.02.03-16.36.49:379][657]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.02.03-16.36.49:407][657]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.02.03-16.36.49:407][657]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.02.03-16.36.49:412][657]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.02.03-16.36.49:442][657]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.02.03-16.36.49:467][657]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.02.03-16.36.49:468][657]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.02.03-16.36.49:468][657]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.02.03-16.36.49:468][657]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.02.03-16.36.49:489][657]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.02.03-16.36.49:489][657]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.02.03-16.36.49:499][657]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.02.03-16.36.49:499][657]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.02.03-16.36.49:499][657]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.02.03-16.36.49:514][657]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.02.03-16.36.49:530][657]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.02.03-16.36.49:531][657]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.02.03-16.36.49:531][657]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.02.03-16.36.49:531][657]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.02.03-16.36.49:531][657]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.02.03-16.36.49:531][657]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.02.03-16.36.49:540][657]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.02.03-16.36.49:552][657]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.02.03-16.36.49:556][657]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.02.03-16.36.49:557][657]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.02.03-16.36.49:557][657]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.03-16.36.49:702][657]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.03-16.36.49:720][657]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.03-16.36.49:720][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.03-16.36.49:720][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.03-16.36.49:727][657]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.03-16.36.49:727][657]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.03-16.36.49:727][657]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.03-16.36.49:740][657]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.03-16.36.49:741][657]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.03-16.36.49:773][657]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.02.03-16.36.49:773][657]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.02.03-16.36.49:773][657]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.02.03-16.36.49:773][657]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.02.03-16.36.49:792][657]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.02.03-16.36.49:792][657]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.02.03-16.36.49:792][657]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.02.03-16.36.49:792][657]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.02.03-16.36.49:801][657]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.03-16.36.49:802][657]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.02.03-16.36.49:810][657]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.02.03-16.36.49:810][657]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.03-16.36.49:810][657]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.03-16.36.49:835][657]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.03-16.36.49:850][657]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.03-16.36.49:850][657]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.03-16.36.49:860][657]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.03-16.36.49:868][657]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.03-16.36.49:868][657]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.03-16.36.49:868][657]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.03-16.36.49:868][657]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.03-16.36.49:868][657]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.03-16.36.49:879][657]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.03-16.36.49:896][657]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.03-16.36.49:910][657]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.03-16.36.49:920][657]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.03-16.36.49:920][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.02.03-16.36.49:920][657]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.02.03-16.36.49:920][657]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.02.03-16.36.49:920][657]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.02.03-16.36.49:950][657]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.02.03-16.36.49:959][657]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.02.03-16.36.49:959][657]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.02.03-16.36.49:959][657]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.02.03-16.36.49:959][657]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.02.03-16.36.49:975][657]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.02.03-16.36.49:975][657]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.02.03-16.36.49:975][657]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.02.03-16.36.49:987][657]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.03-16.36.49:987][657]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.03-16.36.50:088][657]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.03-16.36.50:205][657]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.03-16.36.50:205][657]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.03-16.36.50:216][657]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.03-16.36.50:216][657]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.03-16.36.50:216][657]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.03-16.36.50:216][657]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.03-16.36.50:223][657]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.03-16.36.50:236][657]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.03-16.36.50:247][657]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.03-16.36.50:247][657]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.03-16.36.50:255][657]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.03-16.36.50:270][657]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.03-16.36.50:271][657]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.03-16.36.50:274][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.03-16.36.50:274][657]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.03-16.36.50:274][657]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.03-16.36.50:284][657]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.03-16.36.50:292][657]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.02.03-16.36.50:310][657]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.02.03-16.36.50:316][657]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.02.03-16.36.50:316][657]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.02.03-16.36.50:316][657]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.02.03-16.36.50:329][657]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.02.03-16.36.50:329][657]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.02.03-16.36.50:329][657]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.02.03-16.36.50:329][657]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.02.03-16.36.50:337][657]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.02.03-16.36.50:351][657]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.02.03-16.36.50:351][657]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.02.03-16.36.50:375][657]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.02.03-16.36.50:389][657]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.02.03-16.36.50:402][657]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.02.03-16.36.50:402][657]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.02.03-16.36.50:402][657]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.02.03-16.36.50:427][657]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.02.03-16.36.50:481][657]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.02.03-16.36.50:481][657]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.02.03-16.36.50:512][657]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.02.03-16.36.50:512][657]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.02.03-16.36.50:514][657]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.02.03-16.36.50:523][657]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.02.03-16.36.50:531][657]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.02.03-16.36.50:540][657]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.02.03-16.36.50:540][657]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.02.03-16.36.50:548][657]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.02.03-16.36.50:567][657]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.02.03-16.36.50:567][657]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.02.03-16.36.50:588][657]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.02.03-16.36.50:600][657]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.02.03-16.36.50:600][657]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.02.03-16.36.50:617][657]LogDerivedDataCache: Shutdown
+[2019.02.03-16.36.50:617][657]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.02.03-16.36.50:617][657]LogXGEController: Cleaning working directory: C:/Users/MAX-GAME/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.03-16.36.50:627][657]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.02.03-16.36.50:627][657]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.02.03-16.36.50:638][657]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.02.03-16.36.50:644][657]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.02.03-16.36.50:652][657]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.02.03-16.36.50:652][657]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.02.03-16.36.50:673][657]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.02.03-16.36.50:673][657]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.02.03-16.36.50:673][657]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.02.03-16.36.50:673][657]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.02.03-16.36.50:682][657]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.02.03-16.36.50:694][657]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.02.03-16.36.50:704][657]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.02.03-16.36.50:705][657]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.02.03-16.36.50:705][657]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.02.03-16.36.50:707][657]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.02.03-16.36.50:707][657]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.02.03-16.36.50:726][657]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.02.03-16.36.50:742][657]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.02.03-16.36.50:751][657]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.02.03-16.36.50:786][657]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.02.03-16.36.50:799][657]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.03-16.36.50:800][657]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCDE4716D-47AD-46BF-E104-D9B013F4B788%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=4117aea747ad9bd9bf9f51ade1dac875%7C9dc66da4e050489a8bccca371cda8540%7C283dd208-cc54-4bac-b5dc-862bab642dbb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.03-16.36.50:830][657]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.02.03-16.36.50:843][657]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.03-16.36.50:843][657]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.02.03-16.36.50:844][657]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.03-16.36.50:858][657]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.03-16.36.50:858][657]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.03-16.36.50:876][657]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.03-16.36.50:876][657]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.03-16.36.50:876][657]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.03-16.36.50:876][657]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.03-16.36.50:887][657]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.03-16.36.50:900][657]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.03-16.36.50:900][657]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.03-16.36.50:909][657]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.03-16.36.50:909][657]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.03-16.36.50:909][657]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.03-16.36.50:909][657]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.03-16.36.50:918][657]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.03-16.36.50:918][657]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.03-16.36.50:920][657]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.03-16.36.50:920][657]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.03-16.36.50:948][657]LogExit: Exiting.
+[2019.02.03-16.36.50:997][657]Log file closed, 02/03/19 17:36:50
