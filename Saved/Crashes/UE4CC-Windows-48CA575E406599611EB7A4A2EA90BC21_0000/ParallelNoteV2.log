@@ -1,0 +1,581 @@
+﻿Log file open, 02/10/19 13:20:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ParallelNoteV2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.760241
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.251s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Game/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.026s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.10-12.20.22:531][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.10-12.20.22:532][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.10-12.20.22:588][  0]LogHAL: Display: Platform has ~ 8 GB [8519970816 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.10-12.20.22:632][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.02.10-12.20.22:636][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.10-12.20.22:721][  0]LogInit: Computer: MAXGAME
+[2019.02.10-12.20.22:721][  0]LogInit: User: MAXGAME
+[2019.02.10-12.20.22:721][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.10-12.20.22:721][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2019.02.10-12.20.22:721][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.02.10-12.20.22:721][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.10-12.20.22:721][  0]LogMemory: Process Physical Memory: 100.74 MB used, 100.74 MB peak
+[2019.02.10-12.20.22:721][  0]LogMemory: Process Virtual Memory: 92.29 MB used, 92.29 MB peak
+[2019.02.10-12.20.22:721][  0]LogMemory: Physical Memory: 5103.09 MB used,  3022.19 MB free, 8125.28 MB total
+[2019.02.10-12.20.22:721][  0]LogMemory: Virtual Memory: 4633.35 MB used,  3022.19 MB free, 134217728.00 MB total
+[2019.02.10-12.20.23:356][  0]LogInit: Using OS detected language (da-DK).
+[2019.02.10-12.20.23:356][  0]LogInit: Using OS detected locale (da-DK).
+[2019.02.10-12.20.23:369][  0]LogTextLocalizationManager: No localization for 'da-DK' exists, so 'en' will be used for the language.
+[2019.02.10-12.20.24:158][  0]LogStreaming: Display: Took  0.797s to InitEngineTextLocalization.
+[2019.02.10-12.20.24:173][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.10-12.20.24:795][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.10-12.20.24:795][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.10-12.20.27:923][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.10-12.20.27:923][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.10-12.20.27:977][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.02.10-12.20.27:977][  0]LogD3D11RHI:       2007/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.10-12.20.27:979][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.10-12.20.27:979][  0]LogD3D11RHI:       0/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.10-12.20.27:979][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.10-12.20.28:000][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.10-12.20.28:000][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.10-12.20.28:021][  0]LogWindows: EnumDisplayDevices:
+[2019.02.10-12.20.28:021][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.02.10-12.20.28:021][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.02.10-12.20.28:021][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.10-12.20.28:021][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.02.10-12.20.28:021][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.10-12.20.28:022][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.02.10-12.20.28:022][  0]LogD3D11RHI:   Driver Version: 416.16 (internal:25.21.14.1616, unified:416.16)
+[2019.02.10-12.20.28:022][  0]LogD3D11RHI:      Driver Date: 10-2-2018
+[2019.02.10-12.20.28:022][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.02.10-12.20.28:058][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.10-12.20.28:320][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.10-12.20.28:419][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Intermediate/Shaders/WorkingDirectory/28212/).
+[2019.02.10-12.20.28:419][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MAX-GAME/AppData/Local/Temp/UnrealShaderWorkingDir/AEFD136945B2AE5B1F550C941786CDFD/'.
+[2019.02.10-12.20.28:993][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.10-12.20.29:023][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.10-12.20.29:055][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.10-12.20.29:096][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.10-12.20.29:137][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.10-12.20.29:170][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.10-12.20.29:204][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.10-12.20.29:254][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.10-12.20.29:270][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:399][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.10-12.20.29:425][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.10-12.20.29:559][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.10-12.20.29:559][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.10-12.20.29:605][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.10-12.20.29:605][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.10-12.20.29:644][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.10-12.20.29:674][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.10-12.20.29:704][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.10-12.20.29:745][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.10-12.20.29:775][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.10-12.20.29:775][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.10-12.20.30:507][  0]LogXGEController: Cleaning working directory: C:/Users/MAX-GAME/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.10-12.20.30:508][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.10-12.20.30:508][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.10-12.20.30:508][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.10-12.20.34:147][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: Loaded boot cache 0.75s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.10-12.20.34:901][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.10-12.20.34:984][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.10-12.20.34:996][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MAX-GAME/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.10-12.20.34:996][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.10-12.20.34:996][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.10-12.20.35:055][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.10-12.20.35:117][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.10-12.20.35:170][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.10-12.20.35:730][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2019.02.10-12.20.39:309][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.10-12.20.40:674][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.10-12.20.40:831][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.10-12.20.40:831][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.10-12.20.40:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.10-12.20.40:832][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.10-12.20.41:162][  0]LogNetVersion: ParallelNoteV2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3415175619)
+[2019.02.10-12.20.45:532][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.058696 seconds
+[2019.02.10-12.20.45:554][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.02.10-12.20.45:554][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.02.10-12.20.45:554][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.10-12.21.01:050][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.10-12.21.01:145][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.10-12.21.03:201][  0]SourceControl: Source control is disabled
+[2019.02.10-12.21.03:209][  0]SourceControl: Source control is disabled
+[2019.02.10-12.21.03:299][  0]SourceControl: Source control is disabled
+[2019.02.10-12.21.03:328][  0]SourceControl: Source control is disabled
+[2019.02.10-12.21.05:337][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.10-12.21.05:565][  0]LogOcInput: OculusInput pre-init called
+[2019.02.10-12.21.06:280][  0]LogEngine: Initializing Engine...
+[2019.02.10-12.21.06:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.10-12.21.06:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.10-12.21.06:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.10-12.21.06:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.10-12.21.06:327][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.10-12.21.07:060][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.10-12.21.07:936][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.10-12.21.08:257][  0]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-12.21.08:282][  0]LogInit: FAudioDevice initialized.
+[2019.02.10-12.21.08:298][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.10-12.21.08:427][  0]LogDerivedDataCache: Saved boot cache 0.13s 72MB C:/Users/MAX-GAME/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.02.10-12.21.08:431][  0]LogInit: Texture streaming: Enabled
+[2019.02.10-12.21.08:649][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.10-12.21.09:001][  0]LogInit: Transaction tracking system initialized
+[2019.02.10-12.21.09:602][  0]BlueprintLog: New page: Editor Load
+[2019.02.10-12.21.11:042][  0]LocalizationService: Localization service is disabled
+[2019.02.10-12.21.15:434][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.10-12.21.15:444][  0]LogCook: Display: Mobile HDR setting 0
+[2019.02.10-12.21.15:581][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.10-12.21.15:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.10-12.21.15:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.10-12.21.15:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.10-12.21.15:606][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.10-12.21.17:106][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/' took 1.18s
+[2019.02.10-12.21.18:234][  0]SourceControl: Source control is disabled
+[2019.02.10-12.21.18:261][  0]Cmd: MAP LOAD FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.10-12.21.18:330][  0]LightingResults: New page: Lighting Build
+[2019.02.10-12.21.18:556][  0]MapCheck: New page: Map Check
+[2019.02.10-12.21.18:556][  0]LightingResults: New page: Lighting Build
+[2019.02.10-12.21.24:281][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:281][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:281][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:281][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.10-12.21.24:282][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:282][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset
+[2019.02.10-12.21.24:710][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:711][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:711][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:711][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:711][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:711][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:712][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:712][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:712][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading ../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2019.02.10-12.21.24:712][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/MAX3Dmodle/Charater/NewFolder/Charater_02
+[2019.02.10-12.21.24:728][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:728][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:729][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.24:730][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.24:730][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Armor Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Armor Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset'
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset.Charater_02_Armor_PhysicsAsset Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset' while loading NULL.
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02_Armor_PhysicsAsset.Charater_02_Armor_PhysicsAsset Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Down Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Down Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:908][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.25:908][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_H3 Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:909][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:909][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_H3 Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:909][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.25:909][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Top Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:909][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:909][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Top Referenced by SkeletalMeshComponent0
+[2019.02.10-12.21.25:909][  0]LogLinker: Warning: Can't find file '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02'
+[2019.02.10-12.21.25:909][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Chibi_basemesh Referenced by CharacterMesh0
+[2019.02.10-12.21.25:909][  0]LogLinker: Warning: Can't find file for asset '/Game/MAX3Dmodle/Charater/NewFolder/Charater_02' while loading NULL.
+[2019.02.10-12.21.25:909][  0]LoadErrors: Failed to load /Game/MAX3Dmodle/Charater/NewFolder/Charater_02.Charater_02_Chibi_basemesh Referenced by CharacterMesh0
+[2019.02.10-12.21.28:479][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.10-12.21.30:506][  0]LogEditorServer: Finished looking for orphan Actors (0.007 secs)
+[2019.02.10-12.21.30:891][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.10-12.21.31:010][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117,932ms to complete.
+[2019.02.10-12.21.31:012][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.765
+[2019.02.10-12.21.33:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.21.33:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.21.33:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.21.33:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.21.33:738][  0]LogCollectionManager: Loaded 0 collections in 0.001024 seconds
+[2019.02.10-12.21.33:901][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Saved/Collections/' took 0.01s
+[2019.02.10-12.21.33:901][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Developers/MAXGAME/Collections/' took 0.01s
+[2019.02.10-12.21.33:901][  0]LogFileCache: Scanning file cache for directory 'D:/Playclaw5/Unreal/Github/ParallelNoteV2/Content/Collections/' took 0.01s
+[2019.02.10-12.21.33:901][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.10-12.21.33:921][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2572 classes and 603 folders.
+[2019.02.10-12.21.34:096][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.10-12.21.35:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.10-12.21.35:253][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.10-12.21.36:403][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.02.10-12.21.36:789][  0]LogSlate: Took 0.016428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.10-12.21.36:834][  0]LogSlate: Took 0.023900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.10-12.21.36:918][  0]LogSlate: Took 0.018247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.10-12.21.37:704][  0]LogRenderer: Reallocating scene render targets to support 1060x632 Format 10 NumSamples 1 (Frame:1).
+[2019.02.10-12.21.38:024][  0]LogStaticMesh: Allocated 512x174x64 distance field atlas = 10.9Mb, with 49 objects containing 6.0Mb backing data
+[2019.02.10-12.21.39:191][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.10-12.21.39:191][  0]LogLoad: (Engine Initialization) Total time: 94.57 seconds
+[2019.02.10-12.21.39:191][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.10-12.21.39:852][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.10-12.21.39:959][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.21.40:577][  1]LogSlate: Took 0.020101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.10-12.21.40:747][  3]LogAssetRegistry: Asset discovery search completed in 65.0391 seconds
+[2019.02.10-12.21.40:772][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.10-12.21.40:772][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.011590 seconds (updated 0 objects)
+[2019.02.10-12.22.03:355][190]LogSlate: Window 'Message Log' being destroyed
+[2019.02.10-12.22.03:375][190]LogSlate: Window 'Message Log' being destroyed
+[2019.02.10-12.22.10:868][ 27]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.22.11:907][ 30]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.22.20:111][834]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.22.24:905][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.22.27:297][638]LogSlate: Took 0.019050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.10-12.22.46:785][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.22.58:698][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.23.13:853][333]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.15:838][562]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.16:461][634]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.23.18:021][800]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.19:307][946]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.23.25:430][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.23.26:611][711]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.10-12.23.26:629][711]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/MAX3Dmodle/Charater/lowpoly/boy_basemesh_Rigged.boy_basemesh_Rigged
+[2019.02.10-12.23.26:757][711]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.10-12.23.27:510][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.10-12.23.27:583][711]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.10-12.23.28:050][711]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.10-12.23.29:418][711]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.10-12.23.38:544][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.23.38:688][516]LogSlate: Window 'boy_basemesh_Rigged' being destroyed
+[2019.02.10-12.23.38:694][516]LogSlate: Window 'boy_basemesh_Rigged' being destroyed
+[2019.02.10-12.23.50:081][464]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.51:418][614]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Tree5)
+[2019.02.10-12.23.51:906][614]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.23.55:818][ 46]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.56:647][139]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.57:096][190]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.10-12.23.58:301][331]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.24.07:422][334]LogEditorViewport: Clicking on Actor (LMB): BP_CartoonWater_Ocean_C (BP_CartoonWater_Ocean8)
+[2019.02.10-12.24.08:364][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Huse2)
+[2019.02.10-12.24.12:048][845]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.24.12:807][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EA04_Rocks_Stoolids_01d)
+[2019.02.10-12.24.13:444][989]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.24.13:576][991]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.10-12.24.16:321][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.24.25:269][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.24.34:671][195]Cmd: TRANSACTION UNDO
+[2019.02.10-12.24.34:671][195]LogEditorTransaction: Undo Move Components
+[2019.02.10-12.24.34:691][195]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.CollisionCylinder) Component already registered.
+[2019.02.10-12.24.36:982][450]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FollowCamera)
+[2019.02.10-12.24.40:695][842]Cmd: TRANSACTION UNDO
+[2019.02.10-12.24.40:695][842]LogEditorTransaction: Undo Move Components
+[2019.02.10-12.24.43:676][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.24.46:025][461]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.02.10-12.24.46:743][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2019.02.10-12.24.48:067][690]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.10-12.24.51:513][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.24.51:580][ 64]LogTemp: Repeating last play command: Simulate
+[2019.02.10-12.24.51:636][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.10-12.24.51:653][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-12.24.51:868][ 64]PIE: New page: SIE session: ThirdPersonExampleMap (10/02/2019 14.24.51)
+[2019.02.10-12.24.51:881][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.10-12.24.51:998][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117437s)
+[2019.02.10-12.24.51:999][ 64]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.10-12.24.52:012][ 64]LogPlayLevel: PIE: World Init took: (0.014169s)
+[2019.02.10-12.24.52:029][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.148076s)
+[2019.02.10-12.24.52:213][ 64]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-12.24.52:222][ 64]LogInit: FAudioDevice initialized.
+[2019.02.10-12.24.52:352][ 64]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.10-12.24.52:385][ 64]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.10-13.24.52
+[2019.02.10-12.24.52:426][ 64]LogWorld: Bringing up level for play took: 0.061593
+[2019.02.10-12.24.52:565][ 64]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.02.10-12.24.52:669][ 64]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,355
+[2019.02.10-12.24.52:906][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.10-12.25.10:511][107]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.10-12.25.10:529][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.25.10:616][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-12.25.10:616][107]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.10-12.25.10:711][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.25.10:803][108]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.02.10-12.25.12:104][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.25.13:500][262]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMapDCFC9C6B487434621E17AD859124E73A.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.10-12.25.13:955][262]LogSavePackage: Moving '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Saved/ThirdPersonExampleMap_BuiltData66516EF244840210CFBC77B9ADA68BD4.tmp' to '../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.10-12.25.15:219][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.26.37:976][581]LogAIModule: Creating AISystem for world TestMAP
+[2019.02.10-12.26.37:988][581]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/TestMAP.TestMAP
+[2019.02.10-12.26.38:045][581]Cmd: MAP LOAD FILE="../../../../../Playclaw5/Unreal/Github/ParallelNoteV2/Content/ThirdPersonBP/Maps/TestMAP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.10-12.26.38:045][581]LightingResults: New page: Lighting Build
+[2019.02.10-12.26.38:045][581]LoadErrors: New page: Loading map: TestMAP.umap
+[2019.02.10-12.26.38:164][581]MapCheck: New page: Map Check
+[2019.02.10-12.26.38:164][581]LightingResults: New page: Lighting Build
+[2019.02.10-12.26.38:385][581]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.10-12.26.38:454][581]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.10-12.26.38:728][581]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 274,723ms to complete.
+[2019.02.10-12.26.38:729][581]LogFileHelpers: Loading map 'TestMAP' took 0.692
+[2019.02.10-12.26.38:893][583]LogStaticMesh: Allocated 512x190x64 distance field atlas = 11.9Mb, with 53 objects containing 6.5Mb backing data
+[2019.02.10-12.27.32:381][622]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.02.10-12.27.32:450][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.27.32:566][622]LogSlate: Took 0.081934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.10-12.27.32:650][622]LogSlate: Took 0.081837 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.02.10-12.27.34:306][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-12.28.11:529][983]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere30)
+[2019.02.10-12.28.11:570][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.28.18:060][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere7)
+[2019.02.10-12.28.48:724][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.29.24:408][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.30.22:537][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere78)
+[2019.02.10-12.30.49:163][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.30.49:238][ 74]LogTemp: Repeating last play command: Simulate
+[2019.02.10-12.30.49:254][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.10-12.30.49:254][ 74]PIE: New page: SIE session: TestMAP (10/02/2019 14.30.49)
+[2019.02.10-12.30.49:254][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TestMAP
+[2019.02.10-12.30.49:262][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007707s)
+[2019.02.10-12.30.49:263][ 74]LogAIModule: Creating AISystem for world TestMAP
+[2019.02.10-12.30.49:263][ 74]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2019.02.10-12.30.49:263][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TestMAP.TestMAP to /Game/ThirdPersonBP/Maps/UEDPIE_0_TestMAP.TestMAP (0.008949s)
+[2019.02.10-12.30.49:289][ 74]LogInit: XAudio2 using 'Højttalere (G909 Pro)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.10-12.30.49:297][ 74]LogInit: FAudioDevice initialized.
+[2019.02.10-12.30.49:328][ 74]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.10-12.30.49:332][ 74]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TestMAP.TestMAP up for play (max tick rate 0) at 2019.02.10-13.30.49
+[2019.02.10-12.30.49:332][ 74]LogWorld: Bringing up level for play took: 0.003126
+[2019.02.10-12.30.49:345][ 74]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_TestMAP 0,03
+[2019.02.10-12.31.54:327][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.31.54:363][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.10-12.31.54:873][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.10-12.31.54:911][708]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.10-12.31.58:645][144]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.02.10-12.31.58:685][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.31.59:650][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere115)
+[2019.02.10-12.32.01:733][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere119)
+[2019.02.10-12.32.02:775][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere115)
+[2019.02.10-12.32.06:585][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.32.21:708][717]LogEditorViewport: Clicking on Actor (LMB): BP_CartoonWater_RiverTool_C (BP_CartoonWater_RiverTool)
+[2019.02.10-12.32.34:674][218]LogEditorViewport: Clicking on Actor (LMB): BP_CartoonWater_RiverTool_C (BP_CartoonWater_RiverTool2)
+[2019.02.10-12.32.39:699][813]LogEditorViewport: Clicking on Actor (LMB): BP_CartoonWater_RiverTool_C (BP_CartoonWater_RiverTool)
+[2019.02.10-12.32.48:295][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.32.53:982][220]LogMaterial: Warning: Material /Game/MAX3Dmodle/Texter/WaterMat.WaterMat needed to have new flag set bUsedWithSplineMeshes !
+[2019.02.10-12.32.53:985][220]LogMaterial: Display: Missing cached shader map for material WaterMat, compiling. 
+[2019.02.10-12.32.54:209][220]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.10-12.32.54:209][220]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.10-12.32.54:209][220]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.10-12.32.57:976][617]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.10-12.32.58:111][632]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.10-12.32.58:636][692]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.10-12.33.00:821][929]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.10-12.33.01:613][ 16]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.10-12.33.03:001][173]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.10-12.33.55:057][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.34.14:707][995]Cmd: TRANSACTION UNDO
+[2019.02.10-12.34.14:707][995]LogEditorTransaction: Undo Move Actors
+[2019.02.10-12.34.16:699][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.34.34:229][197]LogEditorViewport: Clicking on Actor (context menu): BP_CartoonWater_Poly_C (BP_CartoonWater_Poly)
+[2019.02.10-12.34.34:258][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.10-12.34.34:995][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.10-12.34.36:129][413]LogEditorViewport: Clicking on Actor (LMB): Space_skybox_C (Space_skybox)
+[2019.02.10-12.34.41:394][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.34.59:884][156]LogEditorViewport: Clicking on Actor (LMB): BP_CartoonWater_RiverTool_C (BP_CartoonWater_RiverTool3)
+[2019.02.10-12.35.07:386][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.35.12:069][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.10-12.35.18:587][ 60]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.039 s
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: 
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\InputCore\Private\InputCoreTypes.cpp] [Line: 717]
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_3653'
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: Stack: 
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffa9af671f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffa9aca0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffa9acbb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffab10497d8 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffab104d6a5 UE4Editor-InputCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffa9c1199a9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffaace8cfd6 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffaace80270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffaace8f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffaace7c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffacfbe6d41 USER32.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffacfbe6713 USER32.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffaace90646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ff6406254e5 UE4Editor.exe!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ff640635b3c UE4Editor.exe!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ff640635bba UE4Editor.exe!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ff640643dac UE4Editor.exe!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ff640645aaa UE4Editor.exe!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007fface523034 KERNEL32.DLL!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: [Callstack] 0x00007ffad0b33691 ntdll.dll!UnknownFunction []
+[2019.02.10-12.35.18:587][ 60]LogOutputDevice: Error: 
+[2019.02.10-12.35.18:620][ 60]LogStats:                SubmitErrorReport -  0.023 s
